@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <disabledLanguages>
+      <language id="kotlin" />
       <language id="SQL" />
     </disabledLanguages>
   </component>
