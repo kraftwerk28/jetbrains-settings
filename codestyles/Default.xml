@@ -1,0 +1,91 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="SOFT_MARGINS" value="80" />
+  <DB2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </HSQLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </SQLiteCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="3" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_CONTENT" value="2" />
+    <option name="INSERT_CLOSING" value="3" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="1" />
+    <option name="WITH_EL_LINE" value="1" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="4" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="2" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="VIEW_INDENT_QUERY" value="true" />
+    <option name="ROUTINE_ARG_CONTENT" value="2" />
+    <option name="ROUTINE_ARG_CLOSING" value="2" />
+    <option name="IMP_LOOP_LOOP_WRAP" value="false" />
+    <option name="IMP_LOOP_LOOP_INDENT" value="false" />
+    <option name="EXPR_CASE_END" value="1" />
+  </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </SybaseCodeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

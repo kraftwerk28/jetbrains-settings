@@ -1,0 +1,22 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="250" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Fira Code Medium" />
+    <option name="LINE_SPACING" value="1.0" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="250" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
+</application>
