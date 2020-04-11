@@ -66,6 +66,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" timestamp="1586616399339">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="8" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586608008922">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="12" />
@@ -78,12 +84,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586613863273">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="4" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586615642721">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
         <mark key="[" line="7" column="0" />
@@ -98,46 +104,57 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
-      <jump line="14" column="34" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="30" column="8" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="35" column="50" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="25" column="22" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID09IEJ1aWxkLlZFUlNJT05fQ09ERVMuTyAmJiBub3RpZmljYWlvbk1nci5oYXMoQ0hBTk5FTF9JRGhoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>versionhc</text>
       </register>
-      <register name="0" type="4">
-        <text>this@MainActivity.actionBar?.title</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpc0BNYWluQWN0aXZpdHkub25QYXVzZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID09IEJ1aWxkLlZFUlNJT05fQ09ERVMuTyAmJiBub3RpZmljYWlvbk1nci5oYXMoQ0hBTk5FTF9JRGhoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkRlc3Ryb3koKSB7CiAgICAgICAgc3VwZXIub25EZXN0cm95KCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5Tm90aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbiBhY3Rpdml0eSBkZXN0cm95ZWQhIikK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVOb3RpZmljYXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24udGV4dCA9IGJ0blRleHQK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvYXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNvdW50ID0gMAoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG4gPSAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBUaW1lcigpLnNjaGVkdWxlKDEwMDApIHsKLy8gICAgICAgICAgICAgICAgcHJpbnRsbigiTWVzc2FnZSIpCi8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnNldEV4dHJhc0NsYXNzTG9hZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpc0BNYWluQWN0aXZpdHkuYWN0aW9uQmFyPy5zdWJ0aXRsZSA9ICJDb3VudDogJHtjb3VudCsrfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDEwMDAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
