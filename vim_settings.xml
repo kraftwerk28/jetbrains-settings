@@ -8,6 +8,7 @@
       <history-cmd>
         <entry>wq</entry>
         <entry encoding="base64">dW5tYXAgPEMtU3BhY2U+</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -55,6 +56,9 @@
       <shortcut-conflict owner="vim">
         <text>pressed F2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F3</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -69,11 +73,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" timestamp="1586633874178">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" timestamp="1586635199689">
         <mark key="'" line="51" column="76" />
-        <mark key="[" line="30" column="78" />
-        <mark key="]" line="30" column="78" />
-        <mark key="." line="30" column="78" />
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="78" />
       </file>
       <file name="/a.dummy" timestamp="1586631875679">
@@ -97,12 +101,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586633821372">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="49" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586636856334">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="31" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
         <mark key="[" line="7" column="0" />
@@ -135,45 +139,56 @@
       <jump line="41" column="7" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
       <jump line="55" column="76" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
       <jump line="16" column="20" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTXlJbnRlbnRTZXJ2aWNlIiwgIlNlcnZpY2UgY3JlYXRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25CYXI/LnRpdGxlID0gIkhlbGxvLCBXb3JsZCEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnkoIk15IGFwcCIsICJTYW1wbGUgdGV4dCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLmdldENvbG9yKCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50Lm5vdGlmeSgpCg==</text>
+      <register name="2" type="4">
+        <text>getColor(
+                    if (isChecked) {
+                        R.color.colorPrimary
+                    } else {
+                        R.color.colorPrimaryDark
+                    }
+                )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogUmVuYW1lIGFjdGlvbnMsIGNob29zZSBhY3Rpb24gbmFtZXMgdGhhdCBkZXNjcmliZSB0YXNrcyB0aGF0IHRoaXMKLy8gSW50ZW50U2VydmljZSBjYW4gcGVyZm9ybSwgZS5nLiBBQ1RJT05fRkVUQ0hfTkVXX0lURU1TCnByaXZhdGUgY29uc3QgdmFsIEFDVElPTl9GT08gPSAiY29tLmtyYWZ0d2VyazI4LnBvY2tldGNtcy5hY3Rpb24uRk9PIgpwcml2YXRlIGNvbnN0IHZhbCBBQ1RJT05fQkFaID0gImNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuYWN0aW9uLkJBWiIKCi8vIFRPRE86IFJlbmFtZSBwYXJhbWV0ZXJzCnByaXZhdGUgY29uc3QgdmFsIEVYVFJBX1BBUkFNMSA9ICJjb20ua3JhZnR3ZXJrMjgucG9ja2V0Y21zLmV4dHJhLlBBUkFNMSIKcHJpdmF0ZSBjb25zdCB2YWwgRVhUUkFfUEFSQU0yID0gImNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuZXh0cmEuUEFSQU0yIgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ2hlY2tlZCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0KQogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyQ29tcGF0LmZyb20odGhpcykubm90aWZ5KDEyKQo=</text>
+      <register name="7" type="4">
+        <text>setOnClickListener {
+            if (it.check)
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25NZ3IuY3JlYXRlTm90aWZpY2F0aW9uQ2hhbm5lbChjaGFuKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25CYXI/LnRpdGxlID0gIkhlbGxvLCBXb3JsZCEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0QWN0aW9uQmFyLnNldFRpdGxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
