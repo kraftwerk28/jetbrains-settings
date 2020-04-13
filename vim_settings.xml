@@ -72,11 +72,11 @@
       <file name="/Dummy.txt" timestamp="1586611635182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1586778839224">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="31" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1586809977361">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/styles.xml" timestamp="1586778413601">
         <mark key="[" line="7" column="40" />
@@ -170,11 +170,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobG9nVGFnLCAiQnV0dG9uIHByZXNzZWQuIikK</text>
+      <register name="+" type="4">
+        <text>RelativeLayout</text>
       </register>
       <register name="-" type="4">
-        <text>NotificationManager.PRI</text>
+        <text>RelativeLayout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiU2FtcGxlIHNlcnZpY2UiLCAiU2VydmljZSBzdGFydGVkLiIpCg==</text>
