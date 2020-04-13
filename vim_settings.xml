@@ -129,11 +129,12 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586779184459">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="60" />
-        <mark key="." line="44" column="59" />
-        <mark key="^" line="44" column="60" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586781616040">
+        <mark key="'" line="72" column="49" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="57" />
+        <mark key="^" line="46" column="57" />
+        <mark key="." line="46" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1586611672427">
         <mark key="[" line="0" column="0" />
@@ -164,45 +165,57 @@
       <jump line="33" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="58" column="49" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>ContextCompat.getColor(this, R.color.primary_light)</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobG9nVGFnLCAiQnV0dG9uIHByZXNzZWQuIikK</text>
       </register>
       <register name="-" type="4">
-        <text>ContextCompat.getColor(this, R.color.primary_light)</text>
+        <text>NotificationManager.PRI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiU2FtcGxlIHNlcnZpY2UiLCAiU2VydmljZSBzdGFydGVkLiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBwcmVzc0J0bk9uQ2xpY2sodjogVmlldykgewogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobG9nVGFnLCAiQnV0dG9uIHByZXNzZWQuIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5jaGEK</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbiBhY3Rpdml0eSIsICJCdXR0b24gcHJlc3NlZC4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBub3RpZkNvbXBhdCA9IE5vdGlmaWNhdGlvbkNvbXBhdC5CdWlsZGVyKHRoaXMsIFNldHRpbmdzLkVYVFJBX0NIQU5ORUxfSUQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uQ2hhbm5lbC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVzc0J1dHRvbi5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29udGV4dENvbXBhdC5nZXRDb2xvcih0aGlzLCBSLmNvbG9yLnByaW1hcnkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biB0b2dnbGVCdG5PbkNoZWNrZWQodjogVmlldywgaXNDaGVja2VkOiBCb29sZWFuKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVzc0J1dHRvbi5zdHlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBwcmVzc0J0bk9uQ2xpY2sodjogVmlldykgewogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCYXJDbChpc0NoZWNrZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KSAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbiBhY3Rpdml0eSIsICJCdXR0b24gcHJlc3NlZC4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
