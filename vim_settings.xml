@@ -1,6 +1,23 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+        <entry encoding="base64">dW5tYXAgPEMtU3BhY2U+</entry>
+        <entry>NERDTreeToggle</entry>
+        <entry>bnext</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -32,14 +49,186 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed SPACE</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586611635182">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1586858822551">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/styles.xml" timestamp="1586778413601">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="51" />
+      </file>
+      <file name="/a.dummy" timestamp="1586631875679">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1586608008922">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1586858802689">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1586613593972">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/SampleService.kt" timestamp="1586687590422">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" timestamp="1586635199689">
+        <mark key="'" line="51" column="76" />
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/colors.xml" timestamp="1586890811094">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1586891338114">
+        <mark key="'" line="77" column="49" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1586611672427">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" />
+      <jump line="30" column="8" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="35" column="50" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="25" column="22" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="42" column="11" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
+      <jump line="53" column="8" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
+      <jump line="41" column="7" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
+      <jump line="55" column="76" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" />
+      <jump line="16" column="20" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+      <jump line="58" column="49" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgICAgICAgICA=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2FtcGxlIHNlcnZpY2UiLCAiU2VydmljZSBzdGFydGVkLiIpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbyA9IG9iamVjdCA6IEJ1bmRsZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICBpdC4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICBmIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBieUlkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRDb2xvcigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobG9nVGFnLCAiQnV0dG9uIHByZXNzZWQuIikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5jaGEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
