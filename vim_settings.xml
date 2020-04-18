@@ -108,11 +108,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587226859037">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="35" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587227262539">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
         <mark key="[" line="7" column="0" />
@@ -160,10 +160,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>,</text>
+        <text>: ActivityGreetingBinding</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>: ActivityGreetingBinding</text>
       </register>
       <register name="0" type="4">
         <text>#303F9F</text>
