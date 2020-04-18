@@ -103,11 +103,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1586858802689">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1587241382772">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587238260935">
         <mark key="[" line="44" column="0" />
@@ -133,6 +133,7 @@
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587241363043" />
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/colors.xml" timestamp="1587199908984">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="42" />
@@ -159,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      <register name="+" type="4">
+        <text>PocketCMS</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>PocketCMS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIEdBSW50ZW50ID0gSW50ZW50KHRoaXNATWFpbkFjdGl2aXR5LCBHcmVldGluZ0FjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICBzdGFydEFjdGl2aXR5KEdBSW50ZW50KQo=</text>
