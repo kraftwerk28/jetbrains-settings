@@ -108,11 +108,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587227262539">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587231163446">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="22" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
         <mark key="[" line="7" column="0" />
@@ -160,16 +160,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>: ActivityGreetingBinding</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>: ActivityGreetingBinding</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text>#303F9F</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -186,25 +186,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdGluZ0FjdGlvbkJ1dHRvbjIuc2V0T25Mb25nQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5hcHBseSB7CiAgICAgICAgICAgICAgICB1c2VyLmVtYWlsID0gZWRpdFRleHQyLnRleHQudG9TdHJpbmcoKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpc0BNYWluQWN0aXZpdHkuc2VuZE5vdGlmaWNhdGlvbigiU2FtcGxlIHRpdGxlIiwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5hcHBseSB7CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmluZGluZzogRGF0YUJpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4ua2FwdCIgdmVyc2lvbiAiMS4zLjcyIgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWQgIm9yZy5qZXRicmFpbnMua290bGluLmthcHQiIHZlcnNpb24gIjEuMy43MiIK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdGluZ0FjdGlvbkJ1dHRvbjIuc2V0T25Mb25nQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
