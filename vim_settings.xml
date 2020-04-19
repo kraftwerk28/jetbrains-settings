@@ -73,8 +73,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587287250058">
+      <file name="/Dummy.txt" timestamp="1587302368947">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/FragmentActivity.kt" timestamp="1587303140089">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1587285052506">
         <mark key="[" line="41" column="51" />
@@ -109,27 +115,27 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/SampleFragment.kt" timestamp="1587303046833">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1587241382772">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587295059617">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587302197071">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/BlankFragment.kt" timestamp="1587286933731">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/FirstApp/app/src/main/java/com/kraftwerk28/firstapp/MainActivity.kt" timestamp="1582704122037">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/SampleService.kt" timestamp="1586687590422">
         <mark key="[" line="12" column="21" />
@@ -156,13 +162,19 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_fragment.xml" timestamp="1587303098758">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MainActivity.kt" timestamp="1587288006877">
         <mark key="'" line="101" column="49" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="64" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1586611672427">
+      <file name="/fragment.java" timestamp="1587302329480">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -178,19 +190,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICJEZWFyLCAke3VzZXIuZW1haWx9LCB1ciBwYXNzd29yZCBpcyAke3VzZXIucGFzc3dvcmR9LiIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlbnRGaWx0ZXIuYWRkQWN0aW9uKEludGVudC5BQ1RJT05fQkFUVEVSWV9DSEFOR0VEKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJEZWFyLCAke3VzZXIuZW1haWx9LCB1ciBwYXNzd29yZCBpcyAke3VzZXIucGFzc3dvcmR9LiIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICA8L2ZyYWdtZW50Pgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -204,25 +216,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJIaSwgJHt1c2VyLmVtYWlsfSwgdXIgcGFzc3dvcmQgaXMgJHt1c2VyLnBhc3N3b3JkfS4iLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLm5ldC5VcmkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbmFtZSBtZXRob2QsIHVwZGF0ZSBhcmd1bWVudCBhbmQgaG9vayBtZXRob2QgaW50byBVSSBldmVudAogICAgZnVuIG9uQnV0dG9uUHJlc3NlZCh1cmk6IFVyaSkgewogICAgICAgIGxpc3RlbmVyPy5vbkZyYWdtZW50SW50ZXJhY3Rpb24odXJpKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkF0dGFjaChjb250ZXh0OiBDb250ZXh0KSB7CiAgICAgICAgc3VwZXIub25BdHRhY2goY29udGV4dCkKICAgICAgICBpZiAoY29udGV4dCBpcyBPbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcikgewogICAgICAgICAgICBsaXN0ZW5lciA9IGNvbnRleHQKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aHJvdyBSdW50aW1lRXhjZXB0aW9uKGNvbnRleHQudG9TdHJpbmcoKSArICIgbXVzdCBpbXBsZW1lbnQgT25GcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXIiKQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25EZXRhY2goKSB7CiAgICAgICAgc3VwZXIub25EZXRhY2goKQogICAgICAgIGxpc3RlbmVyID0gbnVsbAogICAgfQoKICAgIC8qKgogICAgICogVGhpcyBpbnRlcmZhY2UgbXVzdCBiZSBpbXBsZW1lbnRlZCBieSBhY3Rpdml0aWVzIHRoYXQgY29udGFpbiB0aGlzCiAgICAgKiBmcmFnbWVudCB0byBhbGxvdyBhbiBpbnRlcmFjdGlvbiBpbiB0aGlzIGZyYWdtZW50IHRvIGJlIGNvbW11bmljYXRlZAogICAgICogdG8gdGhlIGFjdGl2aXR5IGFuZCBwb3RlbnRpYWxseSBvdGhlciBmcmFnbWVudHMgY29udGFpbmVkIGluIHRoYXQKICAgICAqIGFjdGl2aXR5LgogICAgICoKICAgICAqCiAgICAgKiBTZWUgdGhlIEFuZHJvaWQgVHJhaW5pbmcgbGVzc29uIFtDb21tdW5pY2F0aW5nIHdpdGggT3RoZXIgRnJhZ21lbnRzXQogICAgICogKGh0dHA6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vdHJhaW5pbmcvYmFzaWNzL2ZyYWdtZW50cy9jb21tdW5pY2F0aW5nLmh0bWwpCiAgICAgKiBmb3IgbW9yZSBpbmZvcm1hdGlvbi4KICAgICAqLwogICAgaW50ZXJmYWNlIE9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyIHsKICAgICAgICAvLyBUT0RPOiBVcGRhdGUgYXJndW1lbnQgdHlwZSBhbmQgbmFtZQogICAgICAgIGZ1biBvbkZyYWdtZW50SW50ZXJhY3Rpb24odXJpOiBVcmkpCiAgICB9CgogICAgY29tcGFuaW9uIG9iamVjdCB7CiAgICAgICAgLyoqCiAgICAgICAgICogVXNlIHRoaXMgZmFjdG9yeSBtZXRob2QgdG8gY3JlYXRlIGEgbmV3IGluc3RhbmNlIG9mCiAgICAgICAgICogdGhpcyBmcmFnbWVudCB1c2luZyB0aGUgcHJvdmlkZWQgcGFyYW1ldGVycy4KICAgICAgICAgKgogICAgICAgICAqIEBwYXJhbSBwYXJhbTEgUGFyYW1ldGVyIDEuCiAgICAgICAgICogQHBhcmFtIHBhcmFtMiBQYXJhbWV0ZXIgMi4KICAgICAgICAgKiBAcmV0dXJuIEEgbmV3IGluc3RhbmNlIG9mIGZyYWdtZW50IFNhbXBsZUZyYWdtZW50LgogICAgICAgICAqLwogICAgICAgIC8vIFRPRE86IFJlbmFtZSBhbmQgY2hhbmdlIHR5cGVzIGFuZCBudW1iZXIgb2YgcGFyYW1ldGVycwogICAgICAgIEBKdm1TdGF0aWMKICAgICAgICBmdW4gbmV3SW5zdGFuY2UocGFyYW0xOiBTdHJpbmcsIHBhcmFtMjogU3RyaW5nKSA9CiAgICAgICAgICAgIFNhbXBsZUZyYWdtZW50KCkuYXBwbHkgewogICAgICAgICAgICAgICAgYXJndW1lbnRzID0gQnVuZGxlKCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgIHB1dFN0cmluZyhBUkdfUEFSQU0xLCBwYXJhbTEpCiAgICAgICAgICAgICAgICAgICAgcHV0U3RyaW5nKEFSR19QQVJBTTIsIHBhcmFtMikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGl0bGUgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoInRpdGxlIikK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbmFtZSBhbmQgY2hhbmdlIHR5cGVzIG9mIHBhcmFtZXRlcnMKICAgIHByaXZhdGUgdmFyIHBhcmFtMTogU3RyaW5nPyA9IG51bGwKICAgIHByaXZhdGUgdmFyIHBhcmFtMjogU3RyaW5nPyA9IG51bGwKICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBPbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcj8gPSBudWxsCgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBhcmd1bWVudHM/LmxldCB7CiAgICAgICAgICAgIHBhcmFtMSA9IGl0LmdldFN0cmluZyhBUkdfUEFSQU0xKQogICAgICAgICAgICBwYXJhbTIgPSBpdC5nZXRTdHJpbmcoQVJHX1BBUkFNMikKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiR3JlZXRpbmcgYWN0aXZpdHkiLCB0aXRsZSkK</text>
+        <text encoding="base64">Ly8gVE9ETzogUmVuYW1lIHBhcmFtZXRlciBhcmd1bWVudHMsIGNob29zZSBuYW1lcyB0aGF0IG1hdGNoCi8vIHRoZSBmcmFnbWVudCBpbml0aWFsaXphdGlvbiBwYXJhbWV0ZXJzLCBlLmcuIEFSR19JVEVNX05VTUJFUgpwcml2YXRlIGNvbnN0IHZhbCBBUkdfUEFSQU0xID0gInBhcmFtMSIKcHJpdmF0ZSBjb25zdCB2YWwgQVJHX1BBUkFNMiA9ICJwYXJhbTIiCgovKioKICogQSBzaW1wbGUgW0ZyYWdtZW50XSBzdWJjbGFzcy4KICogQWN0aXZpdGllcyB0aGF0IGNvbnRhaW4gdGhpcyBmcmFnbWVudCBtdXN0IGltcGxlbWVudCB0aGUKICogW1NhbXBsZUZyYWdtZW50Lk9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyXSBpbnRlcmZhY2UKICogdG8gaGFuZGxlIGludGVyYWN0aW9uIGV2ZW50cy4KICogVXNlIHRoZSBbU2FtcGxlRnJhZ21lbnQubmV3SW5zdGFuY2VdIGZhY3RvcnkgbWV0aG9kIHRvCiAqIGNyZWF0ZSBhbiBpbnN0YW5jZSBvZiB0aGlzIGZyYWdtZW50LgogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
