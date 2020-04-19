@@ -73,7 +73,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587326819713">
+      <file name="/Dummy.txt" timestamp="1587328252492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/FragmentActivity.kt" timestamp="1587325411264">
@@ -92,9 +92,6 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="51" />
-      </file>
-      <file name="/a.dummy" timestamp="1586631875679">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_blank.xml" timestamp="1587287464793">
         <mark key="[" line="8" column="27" />
@@ -136,11 +133,10 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/SampleService.kt" timestamp="1586687590422">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_dark.xml" timestamp="1587328276132">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/MyIntentService.kt" timestamp="1587240116052">
         <mark key="'" line="51" column="76" />
@@ -154,6 +150,11 @@
         <mark key="]" line="29" column="47" />
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_light.xml" timestamp="1587328262467">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/colors.xml" timestamp="1587199908984">
         <mark key="[" line="3" column="35" />
@@ -194,8 +195,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>ce7&quot; /</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6Y29sb3I9IiIK</text>
       </register>
       <register name="-" type="4">
         <text>ce7&quot; /</text>
@@ -204,10 +205,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNyb3BUb1BhZGRpbmc9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6Y29sb3I9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaQo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6Y29sb3I9IiIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -221,25 +222,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9zYW1wbGUuKgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNyb3BUb1BhZGRpbmc9ImZhbHNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvVmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTAwZHAiIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxWaWRlb1ZpZXcK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9zYW1wbGUuKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvVmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTAwZHAiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIDxWaWRlb1ZpZXcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc2V0VmlkZW9VUkkoVXJpLnBhcnNlKCJmaWxlOi8vL2hvbWUva3JhZnR3ZXJrMjgvVmlkZW9zL0x1Y2ElMjBTdHJpY2Fnbm9saSUyMC0lMjBGRUVMJTIwR09PRCUyMElOQy4lMjAoR29yaWxsYXopLndlYm0iKSkK</text>
+        <text encoding="base64">ICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc2V0VmlkZW9VUkkoVXJpLmZyb21GaWNsZSgiZmlsZTovLy9ob21lL2tyYWZ0d2VyazI4L1ZpZGVvcy9MdWNhJTIwU3RyaWNhZ25vbGklMjAtJTIwRkVFTCUyMEdPT0QlMjBJTkMuJTIwKEdvcmlsbGF6KS53ZWJtIikpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
