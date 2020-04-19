@@ -76,10 +76,11 @@
       <file name="/Dummy.txt" timestamp="1587237023378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1587284933889">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_main.xml" timestamp="1587285052506">
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="41" column="51" />
+        <mark key="." line="41" column="50" />
+        <mark key="^" line="41" column="51" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/styles.xml" timestamp="1586778413601">
         <mark key="[" line="7" column="40" />
