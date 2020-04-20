@@ -85,10 +85,9 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1587372261900">
-        <mark key="[" line="6" column="8" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1587372497102">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="32" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587302197071">
@@ -157,10 +156,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587372124807">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587372482086">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_greeting.xml" timestamp="1587288176928">
         <mark key="[" line="21" column="0" />
@@ -190,8 +190,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>i</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -200,10 +200,10 @@
         <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6dGl0bGU9IkRvbG9yIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lbnUK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFjdGlvbkxheW91dD0iIgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -217,25 +217,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbgo=</text>
+        <text encoding="base64">ICAgIG1lbnUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5mbGF0ZXIgPSBtZW51SW5mbGF0ZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVPcHRpb25zTWVudShtZW51KQo=</text>
+        <text encoding="base64">ICAgIGFjdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5mbGF0ZXIgPSBNZW51SW5mbGF0ZXIodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5mbGF0ZXIgPSBtZW51SW5mbGF0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVPcHRpb25zTWVudShtZW51KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk1lbnVPcGVuZWQoZmVhdHVyZUlkOiBJbnQsIG1lbnU6IE1lbnUpOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gc3VwZXIub25NZW51T3BlbmVkKGZlYXR1cmVJZCwgbWVudSkKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5mbGF0ZXIgPSBNZW51SW5mbGF0ZXIodGhpcykK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
