@@ -142,11 +142,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587455465055">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587455510644">
         <mark key="'" line="12" column="14" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="17" column="17" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_light.xml" timestamp="1587328262467">
@@ -196,13 +196,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIGRhdGEgY2xhc3MgR2FtZVN0YXRlKHZhciByYW5rOiBSYW5rKSB7CiAgICAgICAgdmFyIGNsaWNrZWQgPSAwCiAgICAgICAgICAgIHNldCh2YWx1ZSkgewogICAgICAgICAgICAgICAgcmFuayA9IHdoZW4gKGZpZWxkKSB7CiAgICAgICAgICAgICAgICAgICAgMCAtPiBSYW5rLk5FV0JJRQogICAgICAgICAgICAgICAgICAgIDIwIC0+IFJhbmsuTUVESVVNCiAgICAgICAgICAgICAgICAgICAgNDAgLT4gUmFuay5QUk8KICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHJhbmsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGZpZWxkID0gdmFsdWUKICAgICAgICAgICAgfQoKICAgICAgICBmdW4gaW5jKCkgewogICAgICAgICAgICBjbGlja2VkKysKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ZW51bSBjbGFzcyBSYW5rKHZhbCBkOiBTdHJpbmcpIHsKICAgIE5FV0JJRSgibmV3YmllIiksCiAgICBNRURJVU0oImNvbW1vbiIpLAogICAgUFJPKCJtYXN0ZXIiKSwKfQoKaW50ZXJuYWwgZGF0YSBjbGFzcyBHYW1lU3RhdGUodmFyIHJhbms6IFJhbmspIHsKICAgIHZhciBjbGlja2VkID0gMAogICAgICAgIHNldCh2YWx1ZSkgewogICAgICAgICAgICByYW5rID0gd2hlbiAoZmllbGQpIHsKICAgICAgICAgICAgICAgIDAgLT4gUmFuay5ORVdCSUUKICAgICAgICAgICAgICAgIDIwIC0+IFJhbmsuTUVESVVNCiAgICAgICAgICAgICAgICA0MCAtPiBSYW5rLlBSTwogICAgICAgICAgICAgICAgZWxzZSAtPiByYW5rCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQogICAgICAgIH0KCiAgICBmdW4gaW5jKCkgewogICAgICAgIGNsaWNrZWQrKwogICAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_rank: Rank</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIGRhdGEgY2xhc3MgR2FtZVN0YXRlKHZhciByYW5rOiBSYW5rKSB7CiAgICAgICAgdmFyIGNsaWNrZWQgPSAwCiAgICAgICAgICAgIHNldCh2YWx1ZSkgewogICAgICAgICAgICAgICAgcmFuayA9IHdoZW4gKGZpZWxkKSB7CiAgICAgICAgICAgICAgICAgICAgMCAtPiBSYW5rLk5FV0JJRQogICAgICAgICAgICAgICAgICAgIDIwIC0+IFJhbmsuTUVESVVNCiAgICAgICAgICAgICAgICAgICAgNDAgLT4gUmFuay5QUk8KICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHJhbmsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGZpZWxkID0gdmFsdWUKICAgICAgICAgICAgfQoKICAgICAgICBmdW4gaW5jKCkgewogICAgICAgICAgICBjbGlja2VkKysKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ZW51bSBjbGFzcyBSYW5rKHZhbCBkOiBTdHJpbmcpIHsKICAgIE5FV0JJRSgibmV3YmllIiksCiAgICBNRURJVU0oImNvbW1vbiIpLAogICAgUFJPKCJtYXN0ZXIiKSwKfQoKaW50ZXJuYWwgZGF0YSBjbGFzcyBHYW1lU3RhdGUodmFyIHJhbms6IFJhbmspIHsKICAgIHZhciBjbGlja2VkID0gMAogICAgICAgIHNldCh2YWx1ZSkgewogICAgICAgICAgICByYW5rID0gd2hlbiAoZmllbGQpIHsKICAgICAgICAgICAgICAgIDAgLT4gUmFuay5ORVdCSUUKICAgICAgICAgICAgICAgIDIwIC0+IFJhbmsuTUVESVVNCiAgICAgICAgICAgICAgICA0MCAtPiBSYW5rLlBSTwogICAgICAgICAgICAgICAgZWxzZSAtPiByYW5rCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQogICAgICAgIH0KCiAgICBmdW4gaW5jKCkgewogICAgICAgIGNsaWNrZWQrKwogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgcmFuazogUmFuayA9IF9yYW5rCg==</text>
