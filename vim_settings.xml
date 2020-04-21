@@ -75,6 +75,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1587491651501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbot.public.chat_members" timestamp="1587491651514">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1587372497102">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587463081708">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/blcklstbot.public.chats" timestamp="1587491651509">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [postgres_docker@myserver]" timestamp="1587491651510">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/chats [postgres_docker@myserver]" timestamp="1587491651508">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/VideoFragment.kt" timestamp="1587334544250">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="22" column="96" />
+        <mark key="." line="22" column="95" />
+        <mark key="^" line="22" column="96" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587371709039">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,39 +121,8 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/StartFragment.kt" timestamp="1587334243377">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1587332050221">
-        <mark key="[" line="40" column="74" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/SampleFragment.kt" timestamp="1587325909883">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="17" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1587372497102">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587463081708">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_sample.xml" timestamp="1587326346582">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="9" />
+      <file name="/chat_members [postgres_docker@myserver]" timestamp="1587491651513">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_cookie.xml" timestamp="1587464017365">
         <mark key="[" line="1" column="8" />
@@ -130,16 +130,8 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_dark.xml" timestamp="1587328276132">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/navigation/nav_graph.xml" timestamp="1587332988489">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="6" column="0" />
+      <file name="/dbot.public.users" timestamp="1587491651511">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587464051738">
         <mark key="[" line="21" column="39" />
@@ -154,10 +146,8 @@
         <mark key="." line="64" column="58" />
         <mark key="^" line="64" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_light.xml" timestamp="1587328262467">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/dbot_16.public.chat_members" timestamp="1587491651513">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_greeting.xml" timestamp="1587463281086">
         <mark key="[" line="1" column="8" />
@@ -165,20 +155,11 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_fragment.xml" timestamp="1587332900475">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="66" />
-        <mark key="." line="11" column="65" />
-        <mark key="^" line="11" column="66" />
+      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587491651512">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587371255167">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/VideoFragment.kt" timestamp="1587334544250">
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="96" />
-        <mark key="." line="22" column="95" />
-        <mark key="^" line="22" column="96" />
       </file>
     </filemarks>
     <jumps>
