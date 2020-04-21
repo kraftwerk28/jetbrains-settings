@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>orientation</entry>
+      </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry encoding="base64">dW5tYXAgPEMtU3BhY2U+</entry>
@@ -122,11 +124,11 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_cookie.xml" timestamp="1587463889255">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="52" />
-        <mark key="^" line="41" column="53" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_cookie.xml" timestamp="1587464017365">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/color/theme_dark.xml" timestamp="1587328276132">
         <mark key="[" line="2" column="0" />
@@ -139,10 +141,11 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587463240036">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587464051738">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="19" column="80" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587463878681">
         <mark key="'" line="23" column="23" />
@@ -199,20 +202,23 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>String.valueOf(gameState.clicked)</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>String.valueOf(gameState.clicked)</text>
+        <text>user</text>
+      </register>
+      <register name="/" type="4">
+        <text>orientation</text>
       </register>
       <register name="0" type="4">
         <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
     xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy4K</text>
+        <text encoding="base64">ICAgICAgICBzY3JlZW5vcmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsICJDbGlja2VkIGltYWdlIikK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdDCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -226,25 +232,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsICJDbGlja2VkIGltYWdlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGxheW91dD48L2xheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGxheW91dCAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGxheW91dD48L2xheW91dD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PGxheW91dCAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -253,7 +259,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>orientation</last-search>
+      <last-offset />
+      <last-pattern>orientation</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
