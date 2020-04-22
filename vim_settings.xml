@@ -75,8 +75,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587587735312">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1587587757065">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
         <mark key="[" line="0" column="0" />
@@ -109,7 +109,7 @@
       <file name="/users [postgres_docker@myserver]" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1587587725096">
+      <file name="/a.sql" timestamp="1587587748198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbot.public.users" timestamp="1587583628178">
@@ -149,7 +149,7 @@
       <file name="/fragment.java" timestamp="1587371255167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587587735319">
+      <file name="/dummy.sql" timestamp="1587587743483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
