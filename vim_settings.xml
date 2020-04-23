@@ -75,16 +75,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/crocodileua_bot.public.users" timestamp="1587593367143">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console" timestamp="1587591471261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbot.public.chat_members" timestamp="1587583628182">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587463081708">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="/blcklstbot.public.chats" timestamp="1587583628177">
         <mark key="[" line="0" column="0" />
@@ -92,7 +90,7 @@
       <file name="/users [postgres_docker@myserver]" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1587587748198">
+      <file name="/a.sql" timestamp="1587593630659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/chats [postgres_docker@myserver]" timestamp="1587583628176">
@@ -101,19 +99,22 @@
       <file name="/default" timestamp="1587584063261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587587743483">
+      <file name="/users [postgres_docker@localhost]" timestamp="1587593367132">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587593400392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587587757065">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1587592840956">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587592057885">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587594894325">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="31" column="33" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
         <mark key="[" line="0" column="0" />
@@ -130,29 +131,19 @@
       <file name="/console_1" timestamp="1587591468070">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/crocodileua_bot.public.chat_members" timestamp="1587592833239">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587464051738">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="19" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587463878681">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="64" column="52" />
-        <mark key="]" line="64" column="59" />
-        <mark key="." line="64" column="58" />
-        <mark key="^" line="64" column="59" />
-      </file>
       <file name="/dbot_16.public.chat_members" timestamp="1587583628180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_greeting.xml" timestamp="1587463281086">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587583628179">
+      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587592833229">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -171,23 +162,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>BwOOLEAN</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>BwOOLEAN</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
       </register>
       <register name="0" type="4">
-        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
-    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;</text>
+        <text>4140, 1234, 'kraftwerk28', 'Vsevolod', 'Ambros'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQgSU5ULAo=</text>
+        <text encoding="base64">ICAgIFJFVFVSTklORyAqIElOVE8gcmVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -201,25 +191,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text>int</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIGNoYXRfbWVtYmVycyAoY2hhdF9pZCwgdXNlcl9pZCkKICAgIFZBTFVFUyAoY2hhdF9pZCwgdXNlcl9pZCkKICAgIE9OIENPTkZMSUNUIERPIE5PVEhJTkcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JlZW5vcmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy4K</text>
+        <text encoding="base64">CkNBTEwgYWRkX2NoYXRfbWVtYmVyKDQxNDAsIDEyMzQsICdrcmFmdHdlcmsyOCcsICdWc2V2b2xvZCcsICdBbWJyb3MnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsICJDbGlja2VkIGltYWdlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQgSU5ULAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>int</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
