@@ -111,11 +111,11 @@
       <file name="/Dummy.txt" timestamp="1587592840956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587632459502">
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="32" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587632545571">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
         <mark key="[" line="0" column="0" />
@@ -163,7 +163,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">RFJPUCBGVU5DVElPTiBhZGRfY2hhdF9tZW1iZXI7Cg==</text>
+        <text encoding="base64">LS0gV0lUSCByZXMgQVMgKAo=</text>
       </register>
       <register name="-" type="4">
         <text>SQL</text>
@@ -175,10 +175,10 @@
         <text>4140, 1234, 'kraftwerk28', 'Vsevolod', 'Ambros'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RFJPUCBGVU5DVElPTiBhZGRfY2hhdF9tZW1iZXI7Cg==</text>
+        <text encoding="base64">LS0gV0lUSCByZXMgQVMgKAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2hhdF9tZW1iZXJzIGNtCldIRVJFIGNtLnVzZXJfaWQgPSAkMgogIEFORCBjbS5jaGF0X2lkID0gJDE7Cg==</text>
+        <text encoding="base64">LS0gKQotLSBTRUxFQ1QgKgotLSBGUk9NIHJlczsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -192,25 +192,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5EOwo=</text>
+        <text encoding="base64">RFJPUCBGVU5DVElPTiBhZGRfY2hhdF9tZW1iZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkVHSU4K</text>
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gY2hhdF9tZW1iZXJzIGNtCldIRVJFIGNtLnVzZXJfaWQgPSAkMgogIEFORCBjbS5jaGF0X2lkID0gJDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExBTkdVQUdFIHBscGdzcWwK</text>
+        <text encoding="base64">RU5EOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUkVUVVJOSU5HICoKICAgICkKICAgIFNFTEVDVCAqCiAgICBGUk9NIHJlczsK</text>
+        <text encoding="base64">QkVHSU4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFdJVEggcmVzIEFTICgK</text>
+        <text encoding="base64">ICAgIExBTkdVQUdFIHBscGdzcWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REVDTEFSRQogICAgcmVzIElOVDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVUVVJOSU5HICoKICAgICkKICAgIFNFTEVDVCAqCiAgICBGUk9NIHJlczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gICAgIFJFVFVSTklORyAqIElOVE8gcmVzOwo=</text>
+        <text encoding="base64">ICAgIFdJVEggcmVzIEFTICgK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
