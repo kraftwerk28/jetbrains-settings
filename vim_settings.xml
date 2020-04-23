@@ -11,10 +11,11 @@
         <entry>wq</entry>
         <entry encoding="base64">dW5tYXAgPEMtU3BhY2U+</entry>
         <entry>NERDTreeToggle</entry>
-        <entry>bnext</entry>
         <entry>aw</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>bnext</entry>
+        <entry>call LanguageClient#textDocument_hover()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -75,39 +76,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587371709039">
+      <file name="/crocodileua_bot.public.users" timestamp="1587648582153">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/FragmentActivity.kt" timestamp="1587334811396">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="61" />
-        <mark key="^" line="12" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_video.xml" timestamp="1587334487881">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="26" />
-      </file>
-      <file name="/chat_members [postgres_docker@myserver]" timestamp="1587491651513">
+      <file name="/console" timestamp="1587591471261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1587491651501">
+      <file name="/dbot.public.chat_members" timestamp="1587583628182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbot.public.chat_members" timestamp="1587491651514">
+      <file name="/blcklstbot.public.chats" timestamp="1587583628177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1587372497102">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/users [postgres_docker@myserver]" timestamp="1587583628178">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/GreetingActivity.kt" timestamp="1587463081708">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/a.sql" timestamp="1587652020582">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/chats [postgres_docker@myserver]" timestamp="1587583628176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1587584063261">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [postgres_docker@localhost]" timestamp="1587648582146">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587651961917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587652020587">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587653333911">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="20" />
+      </file>
+      <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_cookie.xml" timestamp="1587464017365">
         <mark key="[" line="1" column="8" />
@@ -115,51 +127,26 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="/blcklstbot.public.chats" timestamp="1587491651509">
+      <file name="/dbot.public.users" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [postgres_docker@myserver]" timestamp="1587491651510">
+      <file name="/console_1" timestamp="1587591468070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbot.public.users" timestamp="1587491651511">
+      <file name="/crocodileua_bot.public.chat_members" timestamp="1587650923327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/chats [postgres_docker@myserver]" timestamp="1587491651508">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587464051738">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="19" column="80" />
+      </file>
+      <file name="/dbot_16.public.chat_members" timestamp="1587583628180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587657575500">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587463878681">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="64" column="52" />
-        <mark key="]" line="64" column="59" />
-        <mark key="." line="64" column="58" />
-        <mark key="^" line="64" column="59" />
-      </file>
-      <file name="/dbot_16.public.chat_members" timestamp="1587491651513">
+      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587650923318">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_greeting.xml" timestamp="1587463281086">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587491651512">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1587371255167">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/VideoFragment.kt" timestamp="1587334544250">
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="96" />
-        <mark key="." line="22" column="95" />
-        <mark key="^" line="22" column="96" />
       </file>
     </filemarks>
     <jumps>
@@ -172,28 +159,29 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/VideoFragment.kt" />
       <jump line="12" column="14" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" />
       <jump line="21" column="23" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" />
+      <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" />
+      <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">IEFTIHU=</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
       </register>
-      <register name="0" type="4">
-        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
-    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUIHUuKiwgc3VtKGNtLndpbnMpIEFTIHdpbnMKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKV0hFUkUgCkdST1VQIEJZIHUudXNlcl9pZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
+        <text encoding="base64">CiAgICAtLSBTRUxFQ1QgdS4qLCBzdW0oY20ud2lucykgQVMgd2lucwotLSBGUk9NIHVzZXJzIHUKLS0gICAgICAgICAgSk9JTiBjaGF0X21lbWJlcnMgY20gT04gdS51c2VyX2lkID0gY20udXNlcl9pZAotLSBXSEVSRQotLSBHUk9VUCBCWSB1LnVzZXJfaWQKLS0gT1JERVIgQlkgc3VtKGNtLndpbnMpIERFU0MKLS0gTElNSVQgMTA7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -207,25 +195,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JlZW5vcmkK</text>
+        <text encoding="base64">RlJPTSB1c2VyczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdDCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy4K</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsICJDbGlja2VkIGltYWdlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">V0hFUkUgY20uY2hhdF9pZCA9ICQxCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGxheW91dD48L2xheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
