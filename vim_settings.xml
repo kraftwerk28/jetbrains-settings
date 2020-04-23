@@ -13,9 +13,9 @@
         <entry>NERDTreeToggle</entry>
         <entry>aw</entry>
         <entry>w</entry>
-        <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>wa</entry>
         <entry>bnext</entry>
+        <entry>call LanguageClient#textDocument_hover()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -76,7 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/crocodileua_bot.public.users" timestamp="1587593367143">
+      <file name="/crocodileua_bot.public.users" timestamp="1587648582153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1587591471261">
@@ -91,7 +91,7 @@
       <file name="/users [postgres_docker@myserver]" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1587632354435">
+      <file name="/a.sql" timestamp="1587648248646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/chats [postgres_docker@myserver]" timestamp="1587583628176">
@@ -100,23 +100,23 @@
       <file name="/default" timestamp="1587584063261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [postgres_docker@localhost]" timestamp="1587593367132">
+      <file name="/users [postgres_docker@localhost]" timestamp="1587648582146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587647013337">
+      <file name="/dummy.sql" timestamp="1587648582234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587592840956">
+      <file name="/Dummy.txt" timestamp="1587648251564">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587644757453">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587648480908">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="96" column="30" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="7" />
-        <mark key="^" line="98" column="8" />
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="28" />
+        <mark key="." line="91" column="28" />
+        <mark key="^" line="91" column="29" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
         <mark key="[" line="0" column="0" />
@@ -166,22 +166,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CkNSRUFURSBPUiBSRVBMQUNFIEZVTkNUSU9OCiAgICBnZXRfY2hhdF9yYXRpbmcoY2hhdF9pZCBCSUdJTlQpCiAgICBSRVRVUk5TIFRBQkxFCiAgICAgICAgICAgICgKICAgICAgICAgICAgICAgIHVzZXJfaWQgICAgSU5ULAogICAgICAgICAgICAgICAgdXNlcm5hbWUgICBWQVJDSEFSKDMyKSwKICAgICAgICAgICAgICAgIGZpcnN0X25hbWUgVkFSQ0hBUiwKICAgICAgICAgICAgICAgIGxhc3RfbmFtZSAgVkFSQ0hBUiwKICAgICAgICAgICAgICAgIHdpbnMgICAgICAgSU5UCiAgICAgICAgICAgICkKICAgIElNTVVUQUJMRQogICAgTEFOR1VBR0UgU1FMCkFTCiQkClNFTEVDVCB1LiosIGNtLndpbnMKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKV0hFUkUgY20uY2hhdF9pZCA9ICQxCk9SREVSIEJZIGNtLndpbnMgREVTQwpMSU1JVCAyNTsKJCQ7Cg==</text>
+        <text encoding="base64">U0VMRUNUIHUuKiwgc3VtKGNtLndpbnMpIEFTIHdpbnMKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKV0hFUkUgCkdST1VQIEJZIHUudXNlcl9pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
+        <text encoding="base64">CiAgICAtLSBTRUxFQ1QgdS4qLCBzdW0oY20ud2lucykgQVMgd2lucwotLSBGUk9NIHVzZXJzIHUKLS0gICAgICAgICAgSk9JTiBjaGF0X21lbWJlcnMgY20gT04gdS51c2VyX2lkID0gY20udXNlcl9pZAotLSBXSEVSRQotLSBHUk9VUCBCWSB1LnVzZXJfaWQKLS0gT1JERVIgQlkgc3VtKGNtLndpbnMpIERFU0MKLS0gTElNSVQgMTA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgY20uY2hhdF9pZCA9ICQxCg==</text>
+        <text encoding="base64">RlJPTSB1c2VyczsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -195,25 +195,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIE9SIFJFUExBQ0UgRlVOQ1RJT04KICAgIGdldF9jaGF0X3JhdGluZyhjaGF0X2lkIEJJR0lOVCkKICAgIFJFVFVSTlMgVEFCTEUgKGNoYXRfaWQgQklHSU5ULCB1c2VyX2lkIElOVCwgd2lucyBJTlQsIGxlYWRpbmdzIElOVCwgKQogICAgSU1NVVRBQkxFCiAgICBMQU5HVUFHRSBTUUwgQVMKJCQKU0VMRUNUICoKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKV0hFUkUgY20uY2hhdF9pZCA9ICQxCk9SREVSIEJZIHdpbnMgREVTQwpMSU1JVCAyNTsKJCQ7CgpDUkVBVEUgT1IgUkVQTEFDRSBGVU5DVElPTgogICAgZ2V0X2dsb2JhbF9yYXRpbmcoKQogICAgSU1NVVRBQkxFCiAgICBMQU5HVUFHRSBTUUwgQVMKJCQKU0VMRUNUICoKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKT1JERVIgQlkgd2lucwpMSU1JVCAyNTsKJCQ7Cgo=</text>
+        <text encoding="base64">V0hFUkUgY20uY2hhdF9pZCA9ICQxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gY2hhdF9tZW1iZXJzIGNtCiAgICBKT0lOIHVzZXJzIHUgT04gY20udXNlcl9pZCA9IHUudXNlcl9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
