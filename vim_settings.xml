@@ -111,12 +111,12 @@
       <file name="/Dummy.txt" timestamp="1587592840956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587644692128">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587644757453">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+        <mark key="[" line="96" column="30" />
+        <mark key="]" line="98" column="8" />
+        <mark key="." line="98" column="7" />
+        <mark key="^" line="98" column="8" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
         <mark key="[" line="0" column="0" />
@@ -165,11 +165,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
+      <register name="+" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;sql&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
