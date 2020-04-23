@@ -111,11 +111,11 @@
       <file name="/Dummy.txt" timestamp="1587652020587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587651809408">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587652228754">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="13" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
         <mark key="^" line="16" column="14" />
       </file>
       <file name="/chat_members [postgres_docker@myserver]" timestamp="1587583628181">
@@ -166,10 +166,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>user_id</text>
+        <text>CONFLICT</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>CONFLICT</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
