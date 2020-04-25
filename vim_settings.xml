@@ -13,9 +13,9 @@
         <entry>NERDTreeToggle</entry>
         <entry>aw</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>bnext</entry>
         <entry>call LanguageClient#textDocument_hover()</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -76,10 +76,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587843582089">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1587652020587">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/crocodileua_bot.public.users" timestamp="1587843348247">
+      <file name="/crocodileua_bot.public.users" timestamp="1587648582153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587653333911">
@@ -104,41 +104,47 @@
       <file name="/users [postgres_docker@myserver]" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1587843563912">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/customsort [postgres_docker@localhost]" timestamp="1587843488309">
+      <file name="/a.sql" timestamp="1587652020582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbot.public.users" timestamp="1587583628178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1587843348237">
+      <file name="/console_1" timestamp="1587591468070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/kraftwerk28.public.customsort" timestamp="1587843488324">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/crocodileua_bot.public.chat_members" timestamp="1587843348250">
+      <file name="/crocodileua_bot.public.chat_members" timestamp="1587650923327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/chats [postgres_docker@myserver]" timestamp="1587583628176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1587843413966">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/AndroidManifest.xml" timestamp="1587464051738">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="19" column="80" />
+      </file>
+      <file name="/default" timestamp="1587584063261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbot_16.public.chat_members" timestamp="1587583628180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [postgres_docker@localhost]" timestamp="1587843348245">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587665207013">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="56" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="45" column="53" />
+      </file>
+      <file name="/users [postgres_docker@localhost]" timestamp="1587648582146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587843348248">
+      <file name="/chat_members [postgres_docker@localhost]" timestamp="1587650923318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587843577677">
-        <mark key="[" line="0" column="1" />
+      <file name="/dummy.sql" timestamp="1587651961917">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -160,22 +166,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG91dFN0YXRlLnB1dEludCgiY2xpY2tlZCIsIGdhbWVTdGF0ZS5jbGlja2VkKQovLyAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsIGdhbWVTdGF0ZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFTIHU=</text>
+        <text>super.onSaveInstanceState(outState, outPersistentState)</text>
       </register>
       <register name="/" type="4">
         <text>orientation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHUuKiwgc3VtKGNtLndpbnMpIEFTIHdpbnMKRlJPTSB1c2VycyB1CiAgICAgICAgIEpPSU4gY2hhdF9tZW1iZXJzIGNtIE9OIHUudXNlcl9pZCA9IGNtLnVzZXJfaWQKV0hFUkUgCkdST1VQIEJZIHUudXNlcl9pZAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG91dFN0YXRlLnB1dEludCgiY2xpY2tlZCIsIGdhbWVTdGF0ZS5jbGlja2VkKQovLyAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsIGdhbWVTdGF0ZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5nYW1lU3RhdGUuY2xpY2tlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAtLSBTRUxFQ1QgdS4qLCBzdW0oY20ud2lucykgQVMgd2lucwotLSBGUk9NIHVzZXJzIHUKLS0gICAgICAgICAgSk9JTiBjaGF0X21lbWJlcnMgY20gT04gdS51c2VyX2lkID0gY20udXNlcl9pZAotLSBXSEVSRQotLSBHUk9VUCBCWSB1LnVzZXJfaWQKLS0gT1JERVIgQlkgc3VtKGNtLndpbnMpIERFU0MKLS0gTElNSVQgMTA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X2Nvb2tpZSkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -189,25 +195,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSB1c2VyczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAtLSBTRUxFQ1QgdS4qLCBzdW0oY20ud2lucykgQVMgd2lucwotLSBGUk9NIHVzZXJzIHUKLS0gICAgICAgICAgSk9JTiBjaGF0X21lbWJlcnMgY20gT04gdS51c2VyX2lkID0gY20udXNlcl9pZAotLSBXSEVSRQotLSBHUk9VUCBCWSB1LnVzZXJfaWQKLS0gT1JERVIgQlkgc3VtKGNtLndpbnMpIERFU0MKLS0gTElNSVQgMTA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
+        <text encoding="base64">RlJPTSB1c2VyczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0hFUkUgY20uY2hhdF9pZCA9ICQxCg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXRfaWQgICAgQklHSU5ULAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgY20uY2hhdF9pZCA9ICQxCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
