@@ -6,6 +6,7 @@
     <history>
       <history-search>
         <entry>orientation</entry>
+        <entry>Log.</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -14,8 +15,8 @@
         <entry>aw</entry>
         <entry>bnext</entry>
         <entry>call LanguageClient#textDocument_hover()</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,21 +123,20 @@
       <file name="/crocodileua_bot.public.chat_members" timestamp="1587650923327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/chats [postgres_docker@myserver]" timestamp="1587583628176">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/default" timestamp="1587584063261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dbot_16.public.chat_members" timestamp="1587583628180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1587665207013">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="45" column="53" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1588003284358">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/android/iot-starter-for-android/app/src/main/java/com/ibm/iot/android/iotstarter/activities/MainPagerActivity.java" timestamp="1588002903295" />
       <file name="/users [postgres_docker@localhost]" timestamp="1587648582146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,18 +161,19 @@
       <jump line="21" column="23" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" />
       <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" />
       <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" />
+      <jump line="41" column="17" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      <register name="+" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>super.onSaveInstanceState(outState, outPersistentState)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>orientation</text>
+        <text>Log.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIG91dFN0YXRlLnB1dEludCgiY2xpY2tlZCIsIGdhbWVTdGF0ZS5jbGlja2VkKQovLyAgICAgICAgTG9nLmQoIkNvb2tpZSBhY3Rpdml0eSIsIGdhbWVTdGF0ZS50b1N0cmluZygpKQo=</text>
@@ -216,15 +217,15 @@
         <text encoding="base64">RlJPTSB1c2VyczsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>orientation</last-search>
+      <last-search>Log.</last-search>
       <last-offset />
-      <last-pattern>orientation</last-pattern>
+      <last-pattern>Log.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
