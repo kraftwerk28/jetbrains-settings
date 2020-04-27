@@ -15,8 +15,8 @@
         <entry>aw</entry>
         <entry>bnext</entry>
         <entry>call LanguageClient#textDocument_hover()</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -81,11 +81,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_recycler.xml" timestamp="1588020944447">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="30" column="38" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="38" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_recycler.xml" timestamp="1588026835377">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="/crocodileua_bot.public.users" timestamp="1587648582153">
         <mark key="[" line="0" column="0" />
@@ -106,11 +106,11 @@
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/recyclerview/ListItem.kt" timestamp="1588011408791">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/recyclerview/Adapter.kt" timestamp="1588024643343">
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="36" column="5" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/recyclerview/Adapter.kt" timestamp="1588028652317">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="13" />
+        <mark key="^" line="35" column="13" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1588009785856">
         <mark key="[" line="3" column="9" />
@@ -135,17 +135,18 @@
       <file name="/Dummy.txt" timestamp="1588016745964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/RecyclerActivity.kt" timestamp="1588024666543">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/RecyclerActivity.kt" timestamp="1588027674992">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/recyclerview/ListViewModel.kt" timestamp="1588024270651">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/recyclerview/ListViewModel.kt" timestamp="1588028386134">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="38" />
       </file>
       <file name="/crocodileua_bot.public.chat_members" timestamp="1587650923327">
         <mark key="[" line="0" column="0" />
@@ -194,11 +195,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>notifyDataSetChanged()</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGFpbnQuRkxBRwo=</text>
       </register>
       <register name="-" type="4">
-        <text>notifyDataSetChanged()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Log.</text>
@@ -207,10 +208,10 @@
         <text encoding="base64">ICAgIHZhbCB0YXNrTGlzdDogTGl2ZURhdGE8TXV0YWJsZUxpc3Q8U3RyaW5nPj4gPSBtdXRhYmxlTGlzdE9mKCJMb3JlbSIsICJJcHN1bSIsICJEb2xvciIsICJTaXQiLCAiQW1ldCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gbmV3RGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFpbnQuRkxBRwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnJlcGxhY2VBbGwobmV3RGF0YSkKICAgICAgICBkYXRhID0gbmV3RGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGFza0xpc3QxID0gdGFza0xpc3QKICAgICAgICB2YWwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -224,25 +225,30 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluaXQgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRhc2tMaXN0ID0gTXV0YWJsZUxpdmVEYXRhPE11dGFibGVMaXN0PFN0cmluZz4+KCkK</text>
+        <text encoding="base64">ICAgICAgICBfdGFza0xpc3Quc2V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrQ291bnQudmFsdWUgPSB0YXNrTGlzdC52YWx1ZS5zaXplCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrTGlzdC52YWx1ZS4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrQ291bnQuCg==</text>
+      <register name="6" type="4">
+        <text>fun addTask(text: String) {
+        label.value = text
+        val t = ToDoTask(text, false)
+        taskList.value?.add(0, text)
+        taskList.value = taskList.value
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB0YXNrQ291bnQ6IExpdmVEYXRhPEludD4gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaG9sZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrTGlzdC52YWx1ZT8ucmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiQWRhcHRlciIsIHZpZXdNb2RlbC50YXNrQ291bnQudG9TdHJpbmcoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
