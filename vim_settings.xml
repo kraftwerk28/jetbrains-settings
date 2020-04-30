@@ -87,7 +87,7 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588016745964">
+      <file name="/Dummy.txt" timestamp="1588242698265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console_1.sql" timestamp="1587653333911">
@@ -119,11 +119,10 @@
         <mark key="^" line="34" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588237202695">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="57" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="64" column="4" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588239186982">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu1.xml" timestamp="1588009785856">
         <mark key="[" line="3" column="9" />
@@ -138,8 +137,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/crocodileua_bot.public.chat_members" timestamp="1587650923327">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/activity_dbview.xml" timestamp="1588242841663">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/drawable/list_item.xml" timestamp="1588011004650">
         <mark key="[" line="1" column="0" />
@@ -159,18 +161,24 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" timestamp="1588238132282">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="8" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" timestamp="1588243158238">
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="80" column="46" />
+        <mark key="]" line="80" column="57" />
+        <mark key="." line="80" column="56" />
+        <mark key="^" line="80" column="57" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/CookieActivity.kt" timestamp="1588012198879">
         <mark key="'" line="38" column="17" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="3" />
         <mark key="^" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/dbview_item.xml" timestamp="1588242646988">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="/dummy.sql" timestamp="1587651961917">
         <mark key="[" line="0" column="0" />
@@ -218,27 +226,28 @@
       <jump line="40" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" />
+      <jump line="32" column="25" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBTdGl0Y2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>RequestQueue()</text>
+        <text>dbListView.adapter = adapter</text>
       </register>
       <register name="/" type="4">
         <text>Log.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hEYkxpc3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGl0Y2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIKaW1wb3J0IGFuZHJvaWQub3MuU3RyaWN0TW9kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -252,25 +261,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbmRyb2lkLnZvbGxleS5SZXF1ZXN0UXVldWUK</text>
+        <text encoding="base64">ICAgICAgICByZWZyZXNoTGF5b3V0LmxvYWRpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25nb2RiLkNsaWVudFNlc3Npb25PcHRpb25zCmltcG9ydCBjb20ubW9uZ29kYi5jbGllbnQuKgo=</text>
+        <text encoding="base64">ICAgICAgICBkYkxpc3RWaWV3LnZpc2liaWxpdHkgPSBpZiAobG9hZGluZykgewogICAgICAgICAgICBWaWV3LklOVklTSUJMRQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFZpZXcuVklTSUJMRQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRMaXN0TG9hZGluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ic29uLkRvY3VtZW50CmltcG9ydCBvcmcuYnNvbi5jb252ZXJzaW9ucy5Cc29uCmltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkSW5wdXRTdHJlYW0KaW1wb3J0IGphdmEubmV0Lkh0dHBVUkxDb25uZWN0aW9uCmltcG9ydCBqYXZhLm5ldC5VUkwK</text>
+        <text encoding="base64">ICAgIGZ1biBkYkNvbm5lY3QoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50ID0gb2JqZWN0IDogTW9uZ29DbGllbnQgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gZ2V0RGF0YWJhc2UoZGF0YWJhc2VOYW1lOiBTdHJpbmcpOiBNb25nb0RhdGFiYXNlIHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gbGlzdERhdGFiYXNlTmFtZXMoKTogTW9uZ29JdGVyYWJsZTxTdHJpbmc+IHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gbGlzdERhdGFiYXNlTmFtZXMoY2xpZW50U2Vzc2lvbjogQ2xpZW50U2Vzc2lvbik6IE1vbmdvSXRlcmFibGU8U3RyaW5nPiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHdhdGNoKCk6IENoYW5nZVN0cmVhbUl0ZXJhYmxlPERvY3VtZW50PiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIDxUUmVzdWx0IDogQW55Pz4gd2F0Y2gocmVzdWx0Q2xhc3M6IENsYXNzPFRSZXN1bHQ+KTogQ2hhbmdlU3RyZWFtSXRlcmFibGU8VFJlc3VsdD4gewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biB3YXRjaChwaXBlbGluZTogTXV0YWJsZUxpc3Q8b3V0IEJzb24+KTogQ2hhbmdlU3RyZWFtSXRlcmFibGU8RG9jdW1lbnQ+IHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gPFRSZXN1bHQgOiBBbnk/PiB3YXRjaCgKICAgICAgICAgICAgICAgIHBpcGVsaW5lOiBNdXRhYmxlTGlzdDxvdXQgQnNvbj4sCiAgICAgICAgICAgICAgICByZXN1bHRDbGFzczogQ2xhc3M8VFJlc3VsdD4KICAgICAgICAgICAgKTogQ2hhbmdlU3RyZWFtSXRlcmFibGU8VFJlc3VsdD4gewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biB3YXRjaChjbGllbnRTZXNzaW9uOiBDbGllbnRTZXNzaW9uKTogQ2hhbmdlU3RyZWFtSXRlcmFibGU8RG9jdW1lbnQ+IHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gPFRSZXN1bHQgOiBBbnk/PiB3YXRjaCgKICAgICAgICAgICAgICAgIGNsaWVudFNlc3Npb246IENsaWVudFNlc3Npb24sCiAgICAgICAgICAgICAgICByZXN1bHRDbGFzczogQ2xhc3M8VFJlc3VsdD4KICAgICAgICAgICAgKTogQ2hhbmdlU3RyZWFtSXRlcmFibGU8VFJlc3VsdD4gewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biB3YXRjaCgKICAgICAgICAgICAgICAgIGNsaWVudFNlc3Npb246IENsaWVudFNlc3Npb24sCiAgICAgICAgICAgICAgICBwaXBlbGluZTogTXV0YWJsZUxpc3Q8b3V0IEJzb24+CiAgICAgICAgICAgICk6IENoYW5nZVN0cmVhbUl0ZXJhYmxlPERvY3VtZW50PiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIDxUUmVzdWx0IDogQW55Pz4gd2F0Y2goCiAgICAgICAgICAgICAgICBjbGllbnRTZXNzaW9uOiBDbGllbnRTZXNzaW9uLAogICAgICAgICAgICAgICAgcGlwZWxpbmU6IE11dGFibGVMaXN0PG91dCBCc29uPiwKICAgICAgICAgICAgICAgIHJlc3VsdENsYXNzOiBDbGFzczxUUmVzdWx0PgogICAgICAgICAgICApOiBDaGFuZ2VTdHJlYW1JdGVyYWJsZTxUUmVzdWx0PiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGNsb3NlKCkgewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBzdGFydFNlc3Npb24oKTogQ2xpZW50U2Vzc2lvbiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHN0YXJ0U2Vzc2lvbihvcHRpb25zOiBDbGllbnRTZXNzaW9uT3B0aW9ucyk6IENsaWVudFNlc3Npb24gewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBsaXN0RGF0YWJhc2VzKCk6IExpc3REYXRhYmFzZXNJdGVyYWJsZTxEb2N1bWVudD4gewogICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBsaXN0RGF0YWJhc2VzKGNsaWVudFNlc3Npb246IENsaWVudFNlc3Npb24pOiBMaXN0RGF0YWJhc2VzSXRlcmFibGU8RG9jdW1lbnQ+IHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gPFRSZXN1bHQgOiBBbnk/PiBsaXN0RGF0YWJhc2VzKHJlc3VsdENsYXNzOiBDbGFzczxUUmVzdWx0Pik6IExpc3REYXRhYmFzZXNJdGVyYWJsZTxUUmVzdWx0PiB7CiAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIDxUUmVzdWx0IDogQW55Pz4gbGlzdERhdGFiYXNlcygKICAgICAgICAgICAgICAgIGNsaWVudFNlc3Npb246IENsaWVudFNlc3Npb24sCiAgICAgICAgICAgICAgICByZXN1bHRDbGFzczogQ2xhc3M8VFJlc3VsdD4KICAgICAgICAgICAgKTogTGlzdERhdGFiYXNlc0l0ZXJhYmxlPFRSZXN1bHQ+IHsKICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0QnRuLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNb25nb0NsaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJDb25uZWN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
