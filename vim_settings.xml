@@ -25,7 +25,7 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -102,10 +102,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588248513309">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="36" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588286821446">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/DBViewActivity.kt" timestamp="1588247669419">
         <mark key="[" line="20" column="0" />
@@ -172,11 +173,11 @@
       <file name="/fragment.java" timestamp="1588247958008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588258479553">
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="46" column="58" />
-        <mark key="." line="46" column="57" />
-        <mark key="^" line="46" column="58" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588286509798">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -222,23 +223,27 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>com.kraftwerk28.pocketcms.fragments.DBConnectFragment.ConnectCredentials</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIGRhdGFCaW5kaW5nIHsKICAgICAgICBlbmFibGVkID0gdHJ1ZQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.kraftwerk28.pocketcms.fragments.DBConnectFragment.ConnectCredentials</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Log.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaG9zdDogTGl2ZURhdGE8U3RyaW5nPiA9IF9ob3N0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgX2hvc3QgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPihob3N0KQogICAgICAgIHZhbCBfcG9ydCA9IE11dGFibGVMaXZlRGF0YTxJbnQ+KHBvcnQpCiAgICAgICAgdmFsIF91c2VybmFtZSA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KHVzZXJuYW1lKQogICAgICAgIHZhbCBfcGFzc3dvcmQgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPihwYXNzd29yZCkKICAgICAgICB2YWwgX2RiTmFtZSA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KGRiTmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFCaW5kaW5nIHsKICAgICAgICBlbmFibGVkID0gdHJ1ZQogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaG9zdDogTGl2ZURhdGE8U3RyaW5nPiA9IF9ob3N0CiAgICAgICAgdmFsIHBvcnQ6IExpdmVEYXRhPEludD4gPSBfcG9ydAo=</text>
+      <register name="2" type="8">
+        <text>_
+_
+_
+_
+_</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -252,25 +257,29 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBfaG9zdCA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KGhvc3QpOwogICAgICAgIHByaXZhdGUgdmFsIF9wb3J0ID0gTXV0YWJsZUxpdmVEYXRhPEludD4ocG9ydCk7CiAgICAgICAgcHJpdmF0ZSB2YWwgX3VzZXJuYW1lID0gTXV0YWJsZUxpdmVEYXRhPFN0cmluZz4odXNlcm5hbWUpOwogICAgICAgIHByaXZhdGUgdmFsIF9wYXNzd29yZCA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KHBhc3N3b3JkKTsKICAgICAgICBwcml2YXRlIHZhbCBfZGJOYW1lID0gTXV0YWJsZUxpdmVEYXRhPFN0cmluZz4oZGJOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0OiBTdHJpbmcsCiAgICAgICAgcG9ydDogSW50LAogICAgICAgIHVzZXJuYW1lOiBTdHJpbmcsCiAgICAgICAgcGFzc3dvcmQ6IFN0cmluZywKICAgICAgICBkYk5hbWU6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGNvbm5lY3Rpb25TdHJpbmcgPSBUcmFuc2Zvcm1hdGlvbnMubWFwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaG9zdDogTGl2ZURhdGE8U3RyaW5nPiA9IF9ob3N0CiAgICAgICAgdmFsIGhvc3Q6IExpdmVEYXRhPFN0cmluZz4gPSBfaG9zdAogICAgICAgIHZhbCBob3N0OiBMaXZlRGF0YTxTdHJpbmc+ID0gX2hvc3QK</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgQ29ubmVjdENyZWRlbnRpYWxzKAogICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBfaG9zdCA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KCk7CiAgICAgICAgcHJpdmF0ZSB2YWwgX3BvcnQgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0OiBTdHJpbmcsCiAgICAgICAgcG9ydDogSW50LAogICAgICAgIHVzZXJuYW1lOiBTdHJpbmcsCiAgICAgICAgcGFzc3dvcmQ6IFN0cmluZywKICAgICAgICBkYk5hbWU6IFN0cmluZwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAQmluZGFibGUKICAgICAgICB2YXIgaG9zdDogU3RyaW5nID0gaG9zdAogICAgICAgICAgICBnZXQoKSA9IGZpZWxkCiAgICAgICAgICAgIHNldChoKSB7CiAgICAgICAgICAgICAgICBmaWVsZCA9IGgKICAgICAgICAgICAgICAgIG5vdGlmeVByb3BlcnR5Q2hhbmdlZChCUi5ob3N0KQogICAgICAgICAgICB9CiAgICAgICAgQEJpbmRhYmxlCiAgICAgICAgdmFyIHBvcnQ6IEludCA9IHBvcnQKICAgICAgICAgICAgZ2V0KCkgPSBmaWVsZAogICAgICAgICAgICBzZXQocCkgewogICAgICAgICAgICAgICAgZmllbGQgPSBwCiAgICAgICAgICAgICAgICBub3RpZnlQcm9wZXJ0eUNoYW5nZWQoQlIucG9ydCkKICAgICAgICAgICAgfQoKICAgICAgICB2YWwgY29ubmVjdGlvblN0cmluZzogU3RyaW5nCiAgICAgICAgICAgIGdldCgpID0gIkNvbm5lY3QgdG8gcG9zdGdyZXNxbDovLyR7aG9zdH06JHtwb3J0fSIK</text>
+      <register name="9" type="8">
+        <text>host: String,
+port: Int,
+username: String,
+password: String,
+dbName: String</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
