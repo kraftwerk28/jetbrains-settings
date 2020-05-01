@@ -128,7 +128,7 @@
         <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/playground/GreetingActivity.kt" timestamp="1588337357408" />
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588340324329">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588340329936">
         <mark key="'" line="73" column="28" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -139,8 +139,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588338509494">
+      <file name="/Dummy.txt" timestamp="1588340451607">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/activities/DBActivity.kt" timestamp="1588248909230">
         <mark key="[" line="2" column="0" />
@@ -251,7 +253,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJUQUciLCBhY3Rpdml0eSEhLnRoZW1lLnRvU3RyaW5nKCkpCg==</text>
+        <text>add: database connec</text>
       </register>
       <register name="-" type="4">
         <text>_Bridge</text>
@@ -263,10 +265,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiamRiYzpwb3N0Z3Jlc3FsOi8vMTAuMC4yLjI6NTQzMi9rcmFmdHdlcmsyOCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJUQUciLCBhY3Rpdml0eSEhLnRoZW1lLnRvU3RyaW5nKCkpCg==</text>
+        <text>add: database connec</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5hY3Rpdml0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2aXR5ISEudGhlbWUhIQogICAgICAgICAgICAgICAgICAgIC5hcHBseVN0eWxlKFIuc3R5bGUuVGhlbWVfTWF0ZXJpYWxDb21wb25lbnRzX05vQWN0aW9uQmFyLCB0cnVlKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -280,25 +282,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJUQUciLCBhY3Rpdml0eSEhLnRoZW1lLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2aXR5Py5zZXRUaGVtZShSLnN0eWxlLlRoZW1lX01hdGVyaWFsQ29tcG9uZW50c19CcmlkZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5hY3Rpdml0eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5wb3N0Z3Jlc3FsLmpkYmMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERyaXZlci5yZWdpc3RlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2aXR5Py5zZXRUaGVtZShSLnN0eWxlLlRoZW1lX01hdGVyaWFsQ29tcG9uZW50c19CcmlkZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5wb3N0Z3Jlc3FsLmpkYmMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERyaXZlci5yZWdpc3RlcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZy5wb3N0Z3Jlc3FsLmpkYmMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
