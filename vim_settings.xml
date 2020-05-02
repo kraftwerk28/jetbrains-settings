@@ -124,11 +124,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588417918785">
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="31" column="56" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="56" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588447972598">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/anim/anim_slide_right.xml" timestamp="1588338378787">
         <mark key="[" line="8" column="0" />
@@ -266,7 +266,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvdGxpbi5SZXN1bHQK</text>
+        <text encoding="base64">a290bGluT3B0aW9ucyB7CiAgICBmcmVlQ29tcGlsZXJBcmdzID0gWyItWGFsbG93LXJlc3VsdC1yZXR1cm4tdHlwZSJdCn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -275,13 +275,13 @@
         <text>span</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgZnVuIHF1ZXJ5KHN0YXRlbWVudDogU3RyaW5nLCB2YWx1ZXM6IE1hcDxTdHJpbmcsIEFueT4pOiBSZXN1bHRTZXQgewogICAgICAgICAgICB2YWwgcHJlcGFyZWQgPSBwcmVwYXJlUXVlcnlMaXN0KHN0YXRlbWVudCwgdmFsdWVzKQogICAgICAgICAgICByZXR1cm4gaW5zdGFuY2UuY29ubmVjdGlvbi5jcmVhdGVTdGF0ZW1lbnQoKS5leGVjdXRlUXVlcnkocHJlcGFyZWQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">a290bGluT3B0aW9ucyB7CiAgICBmcmVlQ29tcGlsZXJBcmdzID0gWyItWGFsbG93LXJlc3VsdC1yZXR1cm4tdHlwZSJdCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvdGxpbi5SZXN1bHQK</text>
+        <text encoding="base64">ICAgIGp2bVRhcmdldCA9ICIxLjgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtvdGxpbi5SZXN1bHQK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -295,25 +295,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oCiAgICAgICAgICAgICAgICAiamRiYzpwb3N0Z3Jlc3FsOi8vJHtjcmVkcy5ob3N0fToke2NyZWRzLnBvcnR9LyR7Y3JlZHMuZGJOYW1lfSIsCiAgICAgICAgICAgICAgICBjcmVkcy51c2VybmFtZSwKICAgICAgICAgICAgICAgIGNyZWRzLnBhc3N3b3JkCiAgICAgICAgICAgICkKICAgICAgICAgICAgaW5zdGFuY2UuY29ubmVjdGlvbiA9IGNvbm5lY3Rpb24KICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2cuaSgiREIiLCBkYnMudG9NYXAoKS50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oCiAgICAgICAgICAgICAgICAiamRiYzpwb3N0Z3Jlc3FsOi8vJHtjcmVkcy5ob3N0fToke2NyZWRzLnBvcnR9LyR7Y3JlZHMuZGJOYW1lfSIsCiAgICAgICAgICAgICAgICBjcmVkcy51c2VybmFtZSwKICAgICAgICAgICAgICAgIGNyZWRzLnBhc3N3b3JkCiAgICAgICAgICAgICkKICAgICAgICAgICAgaW5zdGFuY2UuY29ubmVjdGlvbiA9IGNvbm5lY3Rpb24KICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiTGlzdC5jbGVhcigpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMb2cuaSgiREIiLCBkYnMudG9NYXAoKS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiTGlzdC5hZGRBbGwoZGJzLnRvTGlzdCgpLm1hcCB7IGl0LnRvU3RyaW5nKCkgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiTGlzdC5jbGVhcigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRiTGlzdC5hZGRBbGwoZGJzLnRvTGlzdCgpLm1hcCB7IGl0LnRvU3RyaW5nKCkgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiTGlzdC5hZGRBbGwoZGJzLnRvTGlzdCgpLm1hcCB7IGl0LnRvU3RyaW5nKCkgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
