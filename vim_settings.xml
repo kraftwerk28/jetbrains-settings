@@ -319,6 +319,8 @@
       <last-search>span</last-search>
       <last-offset />
       <last-pattern>span</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
