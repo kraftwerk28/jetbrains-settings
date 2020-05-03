@@ -94,12 +94,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" timestamp="1588503870523">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="40" />
-        <mark key="^" line="49" column="41" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" timestamp="1588505096235">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1588414150232">
         <mark key="a" line="15" column="30" />
@@ -270,8 +270,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>Main</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Main</text>
@@ -283,10 +283,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGRicyA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgICAgICAgICBkZWxheSgxMDAwTCkKICAgICAgICAgICAgICAgIERhdGFiYXNlLnF1ZXJ5KCJTRUxFQ1QgZGF0bmFtZSBGUk9NIHBnX2RhdGFiYXNlIikuYXdhaXQoKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7CiAgICAgICAgICAgIHZhbCBkYnMgPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgICAgICAgICAgZGVsYXkoMTAwMEwpCiAgICAgICAgICAgICAgICBEYXRhYmFzZS5xdWVyeSgiU0VMRUNUIGRhdG5hbWUgRlJPTSBwZ19kYXRhYmFzZSIpLmF3YWl0KCkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoIkRCIiwgZGJzLnRvU3RyaW5nKCkpCiAgICAgICAgICAgIGRiTGlzdC5jbGVhcigpCiAgICAgICAgICAgIGRiTGlzdC5hZGRBbGwoZGJzLnRvTGlzdCgpLm1hcCB7IGl0LnRvU3RyaW5nKCkgfSkKICAgICAgICAgICAgc2V0TGlzdExvYWRpbmcoZmFsc2UpCiAgICAgICAgICAgIGFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -300,25 +300,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGJzID0gYXN5bmMgewogICAgICAgICAgICBEYXRhYmFzZS5xdWVyeSgiU0VMRUNUIGRhdG5hbWUgRlJPTSBwZ19kYXRhYmFzZSIpLmF3YWl0KCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgciA9IEdsb2JhbFNjb3BlLmxhdW5jaChEaXNwYXRjaGVycy5JTykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRicyA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZldGNoRGJMaXN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDEwMDBMKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaERiTGlzdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBqb2IgPSBKb2IoKQogICAgdmFsIGRpc3BhdGNoZXIgPSBEaXNwYXRjaGVycy5JTwoKICAgIG92ZXJyaWRlIHZhbCBjb3JvdXRpbmVDb250ZXh0ID0gam9iICsgZGlzcGF0Y2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICByLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7CiAgICAgICAgICAgIHZhbCBkYnMgPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgICAgICAgICAgZGVsYXkoMTAwMEwpCiAgICAgICAgICAgICAgICBEYXRhYmFzZS5xdWVyeSgiU0VMRUNUIGRhdG5hbWUgRlJPTSBwZ19kYXRhYmFzZSIpLmF3YWl0KCkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
