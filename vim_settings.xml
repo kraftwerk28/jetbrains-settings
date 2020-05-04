@@ -112,11 +112,11 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" timestamp="1588595237503">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="23" column="37" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" timestamp="1588607358074">
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="69" column="43" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/DBTablesViewModel.kt" timestamp="1588595862056">
         <mark key="[" line="22" column="44" />
@@ -166,11 +166,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBListAdapter.kt" timestamp="1588508335294">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBListAdapter.kt" timestamp="1588607268067">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/DBViewModel.kt" timestamp="1588517525503">
         <mark key="'" line="12" column="0" />
@@ -185,12 +185,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588597074969">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="6" />
-        <mark key="." line="62" column="5" />
-        <mark key="^" line="62" column="6" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588607415951">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="101" column="33" />
+        <mark key="]" line="101" column="33" />
+        <mark key="." line="101" column="33" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/ConnectCredentials.kt" timestamp="1588507440514">
         <mark key="[" line="28" column="25" />
@@ -273,29 +272,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="+" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
       </register>
       <register name="0" type="4">
-        <text>Database.Credentials(
-            viewModel.host.value!!,
-            viewModel.port.value!!,
-            viewModel.username.value!!,
-            viewModel.password.value!!,
-            viewModel.dbName.value!!
-        )</text>
+        <text>jdbc:postgresql://${creds.host}:${creds.port}/${creds.dbName}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVkcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0YWJhc2UuY3JlZGVudGlhbHMgPSBjcmVhdGVDcmVkZW50aWFscygpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -309,25 +302,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3JlZHMgPSBEYXRhYmFzZS5DcmVkZW50aWFscygKICAgICAgICAgICAgdmlld01vZGVsLmhvc3QudmFsdWUhISwKICAgICAgICAgICAgdmlld01vZGVsLnBvcnQudmFsdWUhISwKICAgICAgICAgICAgdmlld01vZGVsLnVzZXJuYW1lLnZhbHVlISEsCiAgICAgICAgICAgIHZpZXdNb2RlbC5wYXNzd29yZC52YWx1ZSEhLAogICAgICAgICAgICB2aWV3TW9kZWwuZGJOYW1lLnZhbHVlISEKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHZhciBjcmVkZW50aWFsczogQ3JlZGVudGlhbHM/ID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVuZGxlLmdldFNlcmlhbGl6YWJsZSgpLgo=</text>
+        <text encoding="base64">ICAgIHZhciBjcmVkZW50aWFsczogQ3JlZGVudGlhbHM/ID0gbnVsbAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRpdGxlVGV4dENvbG9yPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWRzLndpdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjb25uU3RyaW5nID0KICAgICAgICAgICAgICAgICAgICAiamRiYzpwb3N0Z3Jlc3FsOi8vJHtjcmVkcy5ob3N0fToke2NyZWRzLnBvcnR9LyR7Y3JlZHMuZGJOYW1lfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID4K</text>
+        <text encoding="base64">ICAgICAgICBmdW4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
