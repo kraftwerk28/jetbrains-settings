@@ -89,16 +89,24 @@
         <mark key="." line="31" column="54" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/anim/anim_scale_out.xml" timestamp="1588531089076">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" timestamp="1588608053279">
         <mark key="[" line="40" column="42" />
         <mark key="]" line="41" column="95" />
         <mark key="." line="41" column="94" />
         <mark key="^" line="41" column="95" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1588596415133">
+        <mark key="a" line="15" column="30" />
+        <mark key="[" line="142" column="40" />
+        <mark key="]" line="143" column="34" />
+        <mark key="." line="143" column="33" />
+        <mark key="^" line="143" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBTablesAdapter.kt" timestamp="1588595408280">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c1eed4a-10b3-409e-8286-d83b33e930f4/console.sql" timestamp="1588629789081">
         <mark key="[" line="68" column="13" />
@@ -106,7 +114,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="0" />
       </file>
-      <file name="/console" timestamp="1588629741535">
+      <file name="/console" timestamp="1588776983898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" timestamp="1588608223374">
@@ -127,12 +135,6 @@
         <mark key="." line="17" column="43" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/anim/anim_scale_in.xml" timestamp="1588531072283">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBTablesViewFragment.kt" timestamp="1588608572022">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="40" column="95" />
@@ -146,7 +148,10 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="/customsort [postgres_docker@localhost]" timestamp="1588629741537">
+      <file name="/users [postgres_docker@myserver]" timestamp="1588777015789">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/customsort [postgres_docker@localhost]" timestamp="1588776983901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1588595428814">
@@ -155,35 +160,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588608077733">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="114" column="69" />
-        <mark key="]" line="114" column="68" />
-        <mark key="." line="114" column="67" />
-        <mark key="^" line="114" column="68" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588591798216">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1588596415133">
-        <mark key="a" line="15" column="30" />
-        <mark key="[" line="142" column="40" />
-        <mark key="]" line="143" column="34" />
-        <mark key="." line="143" column="33" />
-        <mark key="^" line="143" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBTablesAdapter.kt" timestamp="1588595408280">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="17" />
-      </file>
-      <file name="/console_1" timestamp="1588629741525">
+      <file name="/console_1" timestamp="1588776983890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/kraftwerk28.public.customsort" timestamp="1588629741538">
+      <file name="/kraftwerk28.public.customsort" timestamp="1588776983902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dbot.public.users" timestamp="1588777015805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBListAdapter.kt" timestamp="1588607795401">
@@ -191,6 +174,16 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588777022731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588608077733">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="114" column="69" />
+        <mark key="]" line="114" column="68" />
+        <mark key="." line="114" column="67" />
+        <mark key="^" line="114" column="68" />
       </file>
     </filemarks>
     <jumps>
