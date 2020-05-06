@@ -197,12 +197,10 @@
       <file name="/fragment.java" timestamp="1588764767812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588771392488">
-        <mark key="'" line="126" column="11" />
-        <mark key="[" line="60" column="51" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="98" column="46" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588787040950">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -287,27 +285,29 @@
       <jump line="57" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
       <jump line="67" column="18" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
       <jump line="68" column="35" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
+      <jump line="46" column="27" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>p</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>Biometric login for my app</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
       </register>
       <register name="0" type="4">
-        <text>com.google.android.material.floatingactionbutton.FloatingActionButton</text>
+        <text>FragmentManager is already executing transactions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uVGV4dCgiVXNlIGFjY291bnQgcGFzc3dvcmQiKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -321,25 +321,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0IDogQmlvbWV0cmljUHJvbXB0LkF1dGhlbnRpY2F0aW9uQ2FsbGJhY2soKSB7CiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BdXRoZW50aWNhdGlvblN1Y2NlZWRlZCgKICAgICAgICAgICAgICAgICAgICByZXN1bHQ6IEJpb21ldHJpY1Byb21wdC5BdXRoZW50aWNhdGlvblJlc3VsdAogICAgICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICAgICAgc3VwZXIub25BdXRoZW50aWNhdGlvblN1Y2NlZWRlZChyZXN1bHQpCiAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LAogICAgICAgICAgICAgICAgICAgICAgICAiQXV0aCBzdWNjZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QuTEVOR1RIX1NIT1JUCiAgICAgICAgICAgICAgICAgICAgKS5zaG93KCkKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BdXRoZW50aWNhdGlvbkZhaWxlZCgpIHsKICAgICAgICAgICAgICAgICAgICBzdXBlci5vbkF1dGhlbnRpY2F0aW9uRmFpbGVkKCkKICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHksCiAgICAgICAgICAgICAgICAgICAgICAgICJBdXRoIGZhaWxlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0LkxFTkdUSF9TSE9SVAogICAgICAgICAgICAgICAgICAgICkuc2hvdygpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0di5hZGQK</text>
+        <text encoding="base64">CiAgICAgICAgYmlvbWV0cmljUHJvbXB0LmF1dGhlbnRpY2F0ZShwcm9tcHRJbmZvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZUEK</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcm9tcHQgYXBwZWFycyB3aGVuIHVzZXIgY2xpY2tzICJMb2cgaW4iLgogICAgICAgIC8vIENvbnNpZGVyIGludGVncmF0aW5nIHdpdGggdGhlIGtleXN0b3JlIHRvIHVubG9jayBjcnlwdG9ncmFwaGljIG9wZXJhdGlvbnMsCiAgICAgICAgLy8gaWYgbmVlZGVkIGJ5IHlvdXIgYXBwLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBiaW9tZXRyaWNMb2dpbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2NrRGF0YSA9IGxpc3RPZigKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlvbWV0cmljUHJvbXB0LmF1dGhlbnRpY2F0ZShwcm9tcHRJbmZvKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0T2YoIkxvcmVtIiwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmlvbWV0cmljTG9naW5CdXR0b24gPQogICAgICAgICAgICBmaW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJpb21ldHJpY19sb2dpbikK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
