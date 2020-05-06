@@ -145,11 +145,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588762729054">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="41" />
-        <mark key="^" line="74" column="28" />
-        <mark key="." line="74" column="28" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588783432037">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="4" />
+        <mark key="^" line="77" column="5" />
+        <mark key="." line="77" column="4" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1588782093342">
         <mark key="[" line="6" column="0" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="+" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>this@TableViewFragment</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
