@@ -151,11 +151,10 @@
         <mark key="^" line="74" column="28" />
         <mark key="." line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1588766305249">
-        <mark key="[" line="54" column="74" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="58" column="46" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1588782093342">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/drawable/ic_add_black_24dp.xml" timestamp="1588767283427">
         <mark key="[" line="7" column="32" />
@@ -174,11 +173,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1588773099962">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="26" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1588773253580">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBListAdapter.kt" timestamp="1588607795401">
         <mark key="[" line="5" column="0" />
@@ -294,22 +292,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZUEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>this@TableViewFragment</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuSXRlbVRvdWNoSGVscGVyCg==</text>
+      <register name="0" type="4">
+        <text>com.google.android.material.floatingactionbutton.FloatingActionButton</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZUEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIDxpbQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -323,25 +321,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2NrRGF0YSA9IGxpc3RPZigKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0T2YoIkxvcmVtIiwgIiIpCg==</text>
+        <text encoding="base64">ICAgIGdldHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLm5ldC5VcmkK</text>
+        <text encoding="base64">ICAgICAgICB0di5hZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLm5ldC5VcmkK</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZUEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBPbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcj8gPSBudWxsCgo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NrRGF0YSA9IGxpc3RPZigKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEEgc2ltcGxlIFtGcmFnbWVudF0gc3ViY2xhc3MuCiAqIEFjdGl2aXRpZXMgdGhhdCBjb250YWluIHRoaXMgZnJhZ21lbnQgbXVzdCBpbXBsZW1lbnQgdGhlCiAqIFtUYWJsZVZpZXdGcmFnbWVudC5PbkZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcl0gaW50ZXJmYWNlCiAqIHRvIGhhbmRsZSBpbnRlcmFjdGlvbiBldmVudHMuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0T2YoIkxvcmVtIiwgIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
