@@ -9,6 +9,8 @@
         <entry>Log.</entry>
         <entry>span</entry>
         <entry>this.</entry>
+        <entry>material</entry>
+        <entry>materi</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -78,6 +80,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -105,12 +110,12 @@
         <mark key="." line="41" column="94" />
         <mark key="^" line="41" column="95" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1588596415133">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1588762987358">
         <mark key="a" line="15" column="30" />
-        <mark key="[" line="142" column="40" />
-        <mark key="]" line="143" column="34" />
-        <mark key="." line="143" column="33" />
-        <mark key="^" line="143" column="34" />
+        <mark key="[" line="156" column="39" />
+        <mark key="]" line="156" column="42" />
+        <mark key="." line="156" column="41" />
+        <mark key="^" line="156" column="42" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBTablesAdapter.kt" timestamp="1588595408280">
         <mark key="[" line="16" column="43" />
@@ -130,11 +135,11 @@
         <mark key="." line="22" column="59" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588452900077">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1588762729054">
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="41" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="74" column="28" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/anim/anim_slide_right.xml" timestamp="1588530858036">
         <mark key="[" line="7" column="26" />
@@ -191,12 +196,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588608077733">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="114" column="69" />
-        <mark key="]" line="114" column="68" />
-        <mark key="." line="114" column="67" />
-        <mark key="^" line="114" column="68" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1588761540565">
+        <mark key="'" line="113" column="11" />
+        <mark key="[" line="116" column="67" />
+        <mark key="]" line="116" column="69" />
+        <mark key="." line="116" column="68" />
+        <mark key="^" line="116" column="69" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/ConnectCredentials.kt" timestamp="1588507440514">
         <mark key="[" line="28" column="25" />
@@ -275,27 +280,32 @@
       <jump line="41" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBTablesViewFragment.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" />
+      <jump line="97" column="11" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
+      <jump line="156" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" />
+      <jump line="134" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" />
+      <jump line="147" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" />
+      <jump line="154" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25EZXN0cm95VmlldygpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3lWaWV3KCkKICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5vbkJhY2tQcmVzc2VkRGlzcGF0Y2hlci4KICAgIH0K</text>
+      <register name="+" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>onBackPressedDispatcher {}</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text>this.</text>
+        <text>materi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vYW5pbV9zbGlkZV9sZWZ0IgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL2FuaW1fc2NhbGVfb3V0IgogICAgICAgICAgICBhcHA6cG9wRW50ZXJBbmltPSJAYW5pbS9hbmltX3NjYWxlX2luIgogICAgICAgICAgICBhcHA6cG9wRXhpdEFuaW09IkBhbmltL2FuaW1fc2xpZGVfcmlnaHQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb21wbGV0aW9uSGludD0iZGF0YWJhc2UiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25EZXN0cm95VmlldygpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3lWaWV3KCkKICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5vbkJhY2tQcmVzc2VkRGlzcGF0Y2hlci4KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkRlc3Ryb3koKSB7CiAgICAgICAgc3VwZXIub25EZXN0cm95KCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0Lk1hdGVyaWFsQ29tcG9uZW50cy5UZXh0SW5wdXRMYXlvdXQiCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -309,25 +319,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0Lk1hdGVyaWFsQ29tcG9uZW50cy5UZXh0SW5wdXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJ1bmRsZSA9IGJ1bmRsZU9mKCJjcmVkcyIgdG8gY3JlYXRlQ3JlZGVudGlhbHMoKSkK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxBdXRvQ29tcGxldGVUZXh0Vmlldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YWJhc2UuY3JlZGVudGlhbHMgPSBEYXRhYmFzZS5jcmVkZW50aWFscz8uY29weShkYk5hbWUgPSBpdCkKICAgICAgICAgICAgRGF0YWJhc2UuY29ubmVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0Lk1hdGVyaWFsQ29tcG9uZW50cy4iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RiTmFtZUlucHV0QXV0b0NvbXBsZXRlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpjb21wbGV0aW9uSGludD0iZGF0YWJhc2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9ImRhdGFiYXNlIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YWJhc2UuY3JlZGVudGlhbHMuY29weShkYk5hbWUgPSBpdCkgPSBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LkFwcENvbXBhdEF1dG9Db21wbGV0ZVRleHRWaWV3Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9XaWRnZXQuTWF0ZXJpYWxDb21wb25lbnRzLlRleHRJbnB1dExheW91dC5PdXRsaW5lZEJveC5FeHBvc2VkRHJvcGRvd25NZW51Igo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -336,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>this.</last-search>
+      <last-search>materi</last-search>
       <last-offset />
-      <last-pattern>this.</last-pattern>
+      <last-pattern>materi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
