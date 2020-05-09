@@ -21,8 +21,8 @@
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>w</entry>
         <entry>bnext</entry>
-        <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>wa</entry>
+        <entry>call LanguageClient#textDocument_hover()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,11 +129,11 @@
         <mark key="^" line="3" column="65" />
         <mark key="." line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" timestamp="1588771724673">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="^" line="36" column="36" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" timestamp="1589053372077">
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateDatabaseDialog.kt" timestamp="1588766549987">
         <mark key="'" line="14" column="55" />
@@ -205,11 +205,11 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1589035474482">
-        <mark key="[" line="34" column="73" />
-        <mark key="]" line="34" column="84" />
-        <mark key="^" line="34" column="84" />
-        <mark key="." line="34" column="83" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1589052584184">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -314,23 +314,27 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>toString()</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhLmdldCgwKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>toString()</text>
+        <text>credentials</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
       </register>
-      <register name="0" type="4">
-        <text>requireActivity().intent?.data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhLmdldCgwKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="8">
+        <text>(
+(
+(
+(
+(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -344,27 +348,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgPSBzYXZlZEluc3RhbmNlU3RhdGU/LnJ1biB7CiAgICAgICAgICAgIENvbm5lY3RDcmVkZW50aWFscygKICAgICAgICAgICAgICAgIGdldFN0cmluZygiaG9zdCIpID86ICIxMC4wLjIuMiIsCiAgICAgICAgICAgICAgICBnZXRJbnQoInBvcnQiKSA/OiA1NDMyLAogICAgICAgICAgICAgICAgZ2V0U3RyaW5nKCJ1c2VybmFtZSIpID86ICJrcmFmdHdlcmsyOCIsCiAgICAgICAgICAgICAgICBnZXRTdHJpbmcoInBhc3N3b3JkIikgPzogIjI3MTgyOCIsCiAgICAgICAgICAgICAgICBnZXRTdHJpbmcoImRiTmFtZSIpID86ICJwb3N0Z3JlcyIKICAgICAgICAgICAgKQogICAgICAgIH0gPzoK</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBERUZBVUxUX0NSRURTID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0Q3JlZGVudGlhbHMoCiAgICAgICAgICAgICIxMC4wLjIuMiIsCiAgICAgICAgICAgIDU0MzIsCiAgICAgICAgICAgICJrcmFmdHdlcmsyOCIsCiAgICAgICAgICAgICIyNzE4MjgiLAogICAgICAgICAgICAicG9zdGdyZXMiCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXQoIiIpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>getString
-getString
-getString</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRPckRlZmF1bHQoImhvc3QiLCAiMTAuMC4yLjIiKS50b1N0cmluZygpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoamF2YUNsYXNzLnNpbXBsZU5hbWUsIGl0LmFjdGlvbiEhKQogICAgICAgICAgICBMb2cuaSgKICAgICAgICAgICAgICAgIGphdmFDbGFzcy5zaW1wbGVOYW1lLAogICAgICAgICAgICAgICAgaXQuZGF0YT8uZ2V0UXVlcnlQYXJhbWV0ZXIoInVzZXJuYW1lIikgPzogIm51bGwiCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXQoImhvc3QiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuZ2V0KCkKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
