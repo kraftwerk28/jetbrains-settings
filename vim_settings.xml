@@ -106,7 +106,6 @@
         <mark key="." line="93" column="49" />
         <mark key="^" line="93" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBTablesAdapter.kt" timestamp="1589186815461" />
       <file name="$USER_HOME$/AndroidStudio/DeviceExplorer/emulator-5554/data/data/com.kraftwerk28.pocketcms/shared_prefs/com.kraftwerk28.pocketcms.PREFS_FILE_KEY.xml" timestamp="1589114607914">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -179,11 +178,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589187027363">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589350408223">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589186340394">
         <mark key="'" line="44" column="0" />
@@ -313,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>android:src</text>
+        <text>row: RowData</text>
       </register>
       <register name="-" type="4">
-        <text>android:src</text>
+        <text>row: RowData</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
@@ -325,10 +324,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcHRpY0ZlZWRiYWNrRW5hYmxlZD0iIgo=</text>
+        <text encoding="base64">ICAgIHR5cGVhbGlhcyBSb3cgPSBNYXA8U3RyaW5nLCBTdHJpbmc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF90YWJsZV92aWV3LioK</text>
+        <text encoding="base64">ICAgIHZhbCBrOiBNdXRhYmxlU2V0Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -342,25 +341,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldnJlbmNvc2t1bi50YWJsZXZpZXcuVGFibGVWaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcHRpY0ZlZWRiYWNrRW5hYmxlZD0iIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF90YWJsZV92aWV3LioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ldnJlbmNvc2t1bi50YWJsZXZpZXcuVGFibGVWaWV3Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUud2lkZ2V0LmFkZFRleHRDaGFuZ2VkTGlzdGVuZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
