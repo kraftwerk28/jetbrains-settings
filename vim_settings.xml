@@ -123,13 +123,6 @@
         <mark key="." line="59" column="42" />
         <mark key="^" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateDatabaseDialog.kt" timestamp="1589099875202">
-        <mark key="'" line="20" column="55" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/item_table_cell.xml" timestamp="1589136354774">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="0" />
@@ -165,6 +158,9 @@
         <mark key="]" line="56" column="48" />
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="48" />
+      </file>
+      <file name="/" timestamp="1589351126950">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1589101722528">
         <mark key="[" line="30" column="52" />
