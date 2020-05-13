@@ -172,23 +172,24 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589186368322">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="24" column="8" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589352643487">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589350655157">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="42" />
-        <mark key="." line="16" column="41" />
-        <mark key="^" line="16" column="42" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589353193479">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589186340394">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589352021523">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1589118794939">
         <mark key="[" line="0" column="0" />
@@ -312,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>new.</text>
+        <text>HashMap()</text>
       </register>
       <register name="-" type="4">
-        <text>new.</text>
+        <text>HashMap()</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
@@ -324,10 +325,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR5cGVhbGlhcyBSb3cgPSBNYXA8U3RyaW5nLCBTdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb2xkUm93ID0gSGFzaE1hcChpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBrOiBNdXRhYmxlU2V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -341,25 +342,27 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcHRpY0ZlZWRiYWNrRW5hYmxlZD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF90YWJsZV92aWV3LioK</text>
+        <text encoding="base64">ICAgICAgICBuZXcuc2V0KGluZGV4LCBkYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldnJlbmNvc2t1bi50YWJsZXZpZXcuVGFibGVWaWV3Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBhZGFwdGVyLnNldENlbGxJdGVtcyhpdC5uZXcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
+      <register name="7" type="4">
+        <text>it.modified.values.map {
+                            it.values.toList().map { Cell(it) }
+                        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXV0YWJsZUxpc3RPZigpLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQubmV3Lm1hcCB7IGl0LmVudHJpZXMgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
