@@ -95,7 +95,7 @@
       <file name="/Dummy.txt" timestamp="1589376021551">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1589375931736">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1589492666436">
         <mark key="a" line="15" column="30" />
         <mark key="[" line="93" column="38" />
         <mark key="]" line="93" column="50" />
@@ -160,11 +160,11 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1589101722528">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="31" column="40" />
-        <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="39" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/ModifyRowDialogAdapter.kt" timestamp="1589492745226">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589365587540">
         <mark key="'" line="50" column="5" />
@@ -312,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>androidx.constraintlayout.widget.ConstraintLayout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
