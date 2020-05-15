@@ -110,11 +110,11 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589539156721">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="37" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589540882352">
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="42" />
+        <mark key="^" line="65" column="42" />
+        <mark key="." line="65" column="41" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableModifyRowDialogAdapter.kt" timestamp="1589538522762">
         <mark key="[" line="10" column="33" />
@@ -161,11 +161,11 @@
         <mark key="]" line="19" column="60" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu_tableview.xml" timestamp="1589359033707">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="7" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/menu/menu_tableview.xml" timestamp="1589540841638">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/ModifyRowDialogAdapter.kt" timestamp="1589528773876">
         <mark key="[" line="35" column="0" />
@@ -190,11 +190,11 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589539802815">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="39" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589540722356">
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -302,23 +302,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>String</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnVwZGF0ZUV4aXN0aW5nUm93KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcE9mKCIwIiB0byAiMTAiLCAiNCIgdG8gIjE1IikKICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>new_row</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb2x1bW5IZWFkZXJJdGVtcyh2aWV3TW9kZWwuaGVhZGVyLm1hcCB7IENvbHVtbkhlYWRlcihpdCkgfSkKICAgICAgICBzZXRDZWxsSXRlbXModmlld01vZGVsLnJvd3MubWFwIHsgcm93IC0+CiAgICAgICAgICAgIHZpZXdNb2RlbC5oZWFkZXIubWFwIHsKICAgICAgICAgICAgICAgIENlbGwoCiAgICAgICAgICAgICAgICAgICAgcm93W2l0XSA/OiAibnVsbCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmlkLm5ld19yb3cgLT4gewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlRXhpc3RpbmdSb3coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwT2YoIjAiIHRvICIxMCIsICI0IiB0byAiMTUiKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5tbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnVwZGF0ZUV4aXN0aW5nUm93KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcE9mKCIwIiB0byAiMTAiLCAiNCIgdG8gIjE1IikKICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmhlYWRlci5tYXBJbmRleGVkIHsgaW5kZXgsIHMgLT4gIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhYmV0aWNNb2RpZmllcnM9IiIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -332,25 +332,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnJ1biB7CiAgICAgICAgICAgIHNldENvbHVtbkhlYWRlckl0ZW1zKHZpZXdNb2RlbC5oZWFkZXIubWFwIHsgQ29sdW1uSGVhZGVyKGl0KSB9KQogICAgICAgICAgICBzZXRDZWxsSXRlbXModmlld01vZGVsLnJvd3MubWFwIHsgcm93IC0+CiAgICAgICAgICAgICAgICB2aWV3TW9kZWwuaGVhZGVyLm1hcCB7CiAgICAgICAgICAgICAgICAgICAgQ2VsbCgKICAgICAgICAgICAgICAgICAgICAgICAgcm93W2l0XSA/OiAibnVsbCIKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldENlbGxJdGVtcyhyb3dzMm1hdHJpeCh2aWV3TW9kZWwubmV3Um93cy52YWx1ZS5tYXAgeyBDZWxsKGl0KSB9KSArIHZpZXdNb2RlbC5yb3dzLm1hcCB7IHJvdyAtPgovLyAgICAgICAgICAgIHZpZXdNb2RlbC5oZWFkZXIubWFwSW5kZXhlZCgpIHsgaW5kZXgsIGNvbHVtbiAtPgovLyAgICAgICAgICAgICAgICB2YWwgdiA9IHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWVbaW5kZXhdLmdldChjb2x1bW4pCi8vICAgICAgICAgICAgICAgICAgICA/OiByb3dbY29sdW1uXQovLyAgICAgICAgICAgICAgICBDZWxsKHYpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldENvbHVtbkhlYWRlckl0ZW1zKHZpZXdNb2RlbC5oZWFkZXIubWFwIHsgQ29sdW1uSGVhZGVyKGl0KSB9KQovLyAgICAgICAgc2V0Q2VsbEl0ZW1zKHZpZXdNb2RlbC5yb3dzLm1hcCB7IHJvdyAtPgovLyAgICAgICAgICAgIHZpZXdNb2RlbC5oZWFkZXIubWFwIHsKLy8gICAgICAgICAgICAgICAgQ2VsbCgKLy8gICAgICAgICAgICAgICAgICAgIHJvd1tpdF0gPzogIm51bGwiCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWUhIS5jb250YWluc0tleShpbmRleCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWUhIVtpbmRleF0hIQogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLm1vZGlmaWVkUm93cy52YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5tbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmhlYWRlci5tYXBJbmRleGVkIHsgaW5kZXgsIHMgLT4gIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
