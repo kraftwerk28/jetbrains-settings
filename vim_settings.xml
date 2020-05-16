@@ -22,6 +22,7 @@
         <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>call FormatFile()</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -101,7 +102,7 @@
       <file name="/Dummy.txt" timestamp="1589494998769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1589628686765">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1589631063063">
         <mark key="a" line="15" column="30" />
         <mark key="[" line="93" column="38" />
         <mark key="]" line="93" column="50" />
@@ -143,11 +144,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589541030303">
-        <mark key="[" line="81" column="38" />
-        <mark key="]" line="81" column="58" />
-        <mark key="^" line="81" column="58" />
-        <mark key="." line="81" column="57" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589631225244">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableModifyRowDialogAdapter.kt" timestamp="1589538522762">
         <mark key="[" line="10" column="33" />
@@ -302,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZsYXRlZC5ydW4gewogICAgICAgICAgICB0YWJsZVZpZXcuc2V0QWRhcHRlcihhZGFwdGVyKQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
@@ -315,10 +316,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJEQiIsIHZpZXdNb2RlbC5wcm9kdWNlSW5zZXJ0UXVlcnkoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5MaXZlRGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZsYXRlZC5ydW4gewogICAgICAgICAgICB0YWJsZVZpZXcuc2V0QWRhcHRlcihhZGFwdGVyKQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnVwZGF0ZUV4aXN0aW5nUm93KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcE9mKCIwIiB0byAiMTAiLCAiNCIgdG8gIjE1IikKICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Um93cy5vYnNlcnZlKHZpZXdMaWZlY3ljbGVPd25lciwgT2JzZXJ2ZXIgewogICAgICAgICAgICAgICAgYWRhcHRlci51cGRhdGVUYWJsZUNvbnRlbnRzKCkKICAgICAgICAgICAgfSkKICAgICAgICAgICAgbW9kaWZpZWRSb3dzLm9ic2VydmUodmlld0xpZmVjeWNsZU93bmVyLCBPYnNlcnZlciB7CiAgICAgICAgICAgICAgICBhZGFwdGVyLnVwZGF0ZVRhYmxlQ29udGVudHMoKQogICAgICAgICAgICB9KQogICAgICAgICAgICBkZWxldGVkUm93cy5vYnNlcnZlKHZpZXdMaWZlY3ljbGVPd25lciwgT2JzZXJ2ZXIgewogICAgICAgICAgICAgICAgYWRhcHRlci51cGRhdGVUYWJsZUNvbnRlbnRzKCkKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -332,25 +333,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhYmV0aWNNb2RpZmllcnM9IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5MaXZlRGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldENlbGxJdGVtcyhyb3dzMm1hdHJpeCh2aWV3TW9kZWwubmV3Um93cy52YWx1ZS5tYXAgeyBDZWxsKGl0KSB9KSArIHZpZXdNb2RlbC5yb3dzLm1hcCB7IHJvdyAtPgovLyAgICAgICAgICAgIHZpZXdNb2RlbC5oZWFkZXIubWFwSW5kZXhlZCgpIHsgaW5kZXgsIGNvbHVtbiAtPgovLyAgICAgICAgICAgICAgICB2YWwgdiA9IHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWVbaW5kZXhdLmdldChjb2x1bW4pCi8vICAgICAgICAgICAgICAgICAgICA/OiByb3dbY29sdW1uXQovLyAgICAgICAgICAgICAgICBDZWxsKHYpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnVwZGF0ZUV4aXN0aW5nUm93KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcE9mKCIwIiB0byAiMTAiLCAiNCIgdG8gIjE1IikKICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWUhIS5jb250YWluc0tleShpbmRleCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5tb2RpZmllZFJvd3MudmFsdWUhIVtpbmRleF0hIQogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhYmV0aWNNb2RpZmllcnM9IiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLm1vZGlmaWVkUm93cy52YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5tbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
