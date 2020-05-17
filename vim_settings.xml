@@ -134,12 +134,12 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" timestamp="1589730355451">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" timestamp="1589736091347">
         <mark key="'" line="2" column="23" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="12" column="33" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="47" column="63" />
+        <mark key="." line="47" column="62" />
+        <mark key="^" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_table_view.xml" timestamp="1589726969448">
         <mark key="[" line="50" column="57" />
