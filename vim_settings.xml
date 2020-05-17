@@ -182,11 +182,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589737227018">
-        <mark key="[" line="83" column="26" />
-        <mark key="]" line="83" column="29" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="29" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589737291805">
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="15" />
+        <mark key="^" line="80" column="16" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/colors.xml" timestamp="1589712616841">
         <mark key="[" line="18" column="34" />
@@ -313,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>l</text>
+        <text>col</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>col</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
