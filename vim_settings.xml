@@ -144,12 +144,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589719199618">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589721248791">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="37" />
-        <mark key="." line="58" column="36" />
-        <mark key="^" line="58" column="37" />
+        <mark key="[" line="100" column="45" />
+        <mark key="]" line="101" column="35" />
+        <mark key="." line="101" column="34" />
+        <mark key="^" line="101" column="35" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableModifyRowDialogAdapter.kt" timestamp="1589538522762">
         <mark key="[" line="10" column="33" />
@@ -186,7 +186,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589721096050">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589721223062">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="32" />
@@ -305,8 +305,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>_</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -318,10 +318,10 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iOGRwIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5WaWV3TW9kZWxTdG9yZU93bmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwubmV3Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5WaWV3TW9kZWxTdG9yZU93bmVyCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -335,19 +335,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3TW9kZWxTdG9yZU93bmVybAo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwubmV3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3TW9kZWxTdG9yZU93bmVybAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhOiBTdHJpbmcKCiAgICBpbml0IHsKICAgICAgICBkYXRhID0gX2RhdGEgPzogIm51bGwiCiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnJlbWVhCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhOiBTdHJpbmcKCiAgICBpbml0IHsKICAgICAgICBkYXRhID0gX2RhdGEgPzogIm51bGwiCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IExheW91dEluZmxhdGVyLmZyb20ocGFyZW50LmNvbnRleHQpCiAgICAgICAgICAgIC5pbmZsYXRlKFIubGF5b3V0Lml0ZW1fdGFibGVfY2VsbCwgcGFyZW50LCBmYWxzZSkKICAgICAgICByZXR1cm4gQ2VsbFZpZXdIb2xkZXIodmlldykK</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnJlbWVhCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IExheW91dEluZmxhdGVyLmZyb20ocGFyZW50LmNvbnRleHQpCiAgICAgICAgICAgIC5pbmZsYXRlKFIubGF5b3V0Lml0ZW1fdGFibGVfY2VsbCwgcGFyZW50LCBmYWxzZSkKICAgICAgICByZXR1cm4gQ2VsbFZpZXdIb2xkZXIodmlldykK</text>
