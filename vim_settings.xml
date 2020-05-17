@@ -93,6 +93,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589742761962">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" timestamp="1589101660106">
         <mark key="'" line="78" column="35" />
         <mark key="[" line="84" column="24" />
@@ -200,12 +203,6 @@
         <mark key="]" line="51" column="13" />
         <mark key="." line="51" column="12" />
         <mark key="^" line="51" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/ConnectCredentials.kt" timestamp="1589100494689">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="27" />
       </file>
     </filemarks>
     <jumps>
