@@ -144,11 +144,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589710513499">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1589711087457">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="3" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableModifyRowDialogAdapter.kt" timestamp="1589538522762">
@@ -186,11 +186,11 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589710789001">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589711054490">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1589534045798">
         <mark key="[" line="27" column="15" />
@@ -305,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgYWRhcHRlci51cGRhdGVUYWJsZUNvbnRlbnRzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBTdHJpbmc+</text>
+        <text>Cell</text>
       </register>
       <register name="/" type="4">
         <text>Database.</text>
@@ -317,10 +317,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJEQiIsIHZpZXdNb2RlbC5wcm9kdWNlSW5zZXJ0UXVlcnkoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgYWRhcHRlci51cGRhdGVUYWJsZUNvbnRlbnRzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uZXZyZW5jb3NrdW4udGFibGV2aWV3LmFkYXB0ZXIucmVjeWNsZXJ2aWV3Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -334,25 +334,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuYWRhcHRlcnMuUm93SXRlbURpZmZDYWxsYmFjawo=</text>
+        <text encoding="base64">CmltcG9ydCBjb20uZXZyZW5jb3NrdW4udGFibGV2aWV3LmFkYXB0ZXIucmVjeWNsZXJ2aWV3Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RBZGFwdGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuYWRhcHRlcnMuUm93SXRlbURpZmZDYWxsYmFjawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RBZGFwdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gKGl0Lml0ZW1JZCkgewogICAgICAgICAgICAgICAgICAgIFIuaWQubmV3Um93IC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLm5ld1JvdygpCiAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgUi5pZC51cGRhdGVSb3cgLT4gewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlRXhpc3RpbmdSb3coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwT2YoIjAiIHRvICIxMCIsICI0IiB0byAiMTUiKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBmYWxzZQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gKGl0Lml0ZW1JZCkgewogICAgICAgICAgICAgICAgICAgIFIuaWQubmV3Um93IC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLm5ld1JvdygpCiAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgUi5pZC51cGRhdGVSb3cgLT4gewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwudXBkYXRlRXhpc3RpbmdSb3coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwT2YoIjAiIHRvICIxMCIsICI0IiB0byAiMTUiKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBmYWxzZQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZsYXRlZC5ydW4gewogICAgICAgICAgICB0YWJsZVZpZXcuc2V0QWRhcHRlcihhZGFwdGVyKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
