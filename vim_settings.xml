@@ -12,6 +12,7 @@
         <entry>material</entry>
         <entry>materi</entry>
         <entry>Database.</entry>
+        <entry>team</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -174,6 +175,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="24" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Bot.kt" timestamp="1589741566806">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1589187027363">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
@@ -307,23 +313,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>android:src</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="-" type="4">
         <text>android:src</text>
       </register>
       <register name="/" type="4">
-        <text>Database.</text>
+        <text>team</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcHRpY0ZlZWRiYWNrRW5hYmxlZD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF90YWJsZV92aWV3LioK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcHRpY0ZlZWRiYWNrRW5hYmxlZD0iIgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -337,16 +343,16 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldnJlbmNvc2t1bi50YWJsZXZpZXcuVGFibGVWaWV3Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF90YWJsZV92aWV3LioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ldnJlbmNvc2t1bi50YWJsZXZpZXcuVGFibGVWaWV3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyKHJvdywgY29sdW1uLCBzLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -355,7 +361,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUud2lkZ2V0LmFkZFRleHRDaGFuZ2VkTGlzdGVuZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -364,9 +370,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Database.</last-search>
+      <last-search>team</last-search>
       <last-offset />
-      <last-pattern>Database.</last-pattern>
+      <last-pattern>team</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
