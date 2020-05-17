@@ -186,12 +186,12 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589719901250">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589721096050">
         <mark key="'" line="3" column="20" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="35" column="56" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1589534045798">
         <mark key="[" line="27" column="15" />
@@ -305,11 +305,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5WaWV3TW9kZWxTdG9yZU93bmVyCg==</text>
+      <register name="+" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
