@@ -169,11 +169,11 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Plugin.kt" timestamp="1589787684456">
+      <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Plugin.kt" timestamp="1589789345689">
         <mark key="[" line="78" column="64" />
-        <mark key="]" line="78" column="37" />
-        <mark key="^" line="78" column="37" />
-        <mark key="." line="78" column="36" />
+        <mark key="]" line="78" column="70" />
+        <mark key="^" line="78" column="70" />
+        <mark key="." line="78" column="69" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/DBViewModel.kt" timestamp="1589537313250">
         <mark key="[" line="12" column="0" />
