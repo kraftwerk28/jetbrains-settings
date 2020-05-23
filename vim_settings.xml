@@ -177,11 +177,11 @@
       <file name="/" timestamp="1589750976321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1590261263291">
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="35" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="35" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1590262105292">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="35" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Bot.kt" timestamp="1589741566806">
         <mark key="[" line="107" column="0" />
@@ -194,19 +194,19 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1590261324783">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1590262158483">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="130" column="17" />
-        <mark key="]" line="130" column="18" />
-        <mark key="." line="130" column="17" />
-        <mark key="^" line="130" column="18" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1589739392912">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" timestamp="1590262134959">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="8" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="8" />
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/ConfirmAction.kt" timestamp="1590257417198">
         <mark key="'" line="5" column="19" />
@@ -321,26 +321,23 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKCksCiAgICAgICAgICAgIG11dGFibGVMaXN0T2YoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="0" type="4">
-        <text>app:enterAnim=&quot;@anim/anim_slide_left&quot;
-            app:exitAnim=&quot;@anim/anim_scale_out&quot;
-            app:popEnterAnim=&quot;@anim/anim_scale_in&quot;
-            app:popExitAnim=&quot;@anim/anim_slide_right&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCByb3dzID0gTXV0YWJsZUxpdmVEYXRhPExpc3Q8TWFwPFN0cmluZywgQ2VsbD4+PihsaXN0T2YoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKCksCiAgICAgICAgICAgIG11dGFibGVMaXN0T2YoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKGphdmFDbGFzcy5zaW1wbGVOYW1lLCAiTW92aW5nIHRvIHRhYmxlICRpdC4iKQo=</text>
+        <text encoding="base64">ICAgIHJvd3MudmFsdQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -353,29 +350,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="8">
-        <text>holder.itemBinding.
-holder.itemBinding.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGZpZWxkLnZhbHVlCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>holder.itemBinding.
-holder.itemBinding.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCByb3dzID0gTXV0YWJsZUxpdmVEYXRhPExpc3Q8TWFwPFN0cmluZywgQ2VsbD4+PihsaXN0T2YoKSkKICAgIHZhbCBoZWFkZXIgPSBNdXRhYmxlTGl2ZURhdGE8TGlzdDxTdHJpbmc+PihsaXN0T2YoKSkK</text>
       </register>
-      <register name="5" type="8">
-        <text>.itemBinding.
-.itemBinding.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBoZWFkZXI6IExpc3Q8U3RyaW5nPiwKICAgIHZhciByb3dzOiBMaXN0PE1hcDxTdHJpbmcsIENlbGw+PiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciByb3dzOiBMaXN0PE1hcDxTdHJpbmcsIENlbGw+PiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLml0ZW1CaW5kaW5nLmV4ZWN1dGVQZW5kaW5nQmluZGluZ3MoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9yb3dzID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbUJpbmRpbmcudGFibGVOYW1lID0gZ2V0SXRlbShwb3NpdGlvbikKICAgICAgICBob2xkZXIuaXRlbUJpbmRpbmcuZXhlY3V0ZVBlbmRpbmdCaW5kaW5ncygpCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShqYXZhQ2xhc3MsICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0YSA9IHZpZXdNb2RlbC50YWJsZXMudmFsdWUhIVtwb3NpdGlvbl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
