@@ -109,7 +109,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1590508457096">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1590517673628">
         <mark key="a" line="15" column="30" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
@@ -164,6 +164,12 @@
         <mark key="." line="84" column="74" />
         <mark key="^" line="84" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_table_view.xml" timestamp="1590509289756">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="89" />
+        <mark key="^" line="53" column="89" />
+        <mark key="." line="53" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/dialog_create_table.xml" timestamp="1590490048081">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="28" column="34" />
@@ -202,12 +208,6 @@
       </file>
       <file name="/fragment.java" timestamp="1590476801722">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/ConfirmAction.kt" timestamp="1590389876488">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="12" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -315,11 +315,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkZWxldGVkUm93cy52YWx1ZSEhLmNvbnRhaW5zKHJvdykpIHJldHVybgo=</text>
+      <register name="+" type="4">
+        <text>icons</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>icons</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
