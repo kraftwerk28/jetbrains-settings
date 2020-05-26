@@ -128,13 +128,6 @@
         <mark key="." line="53" column="45" />
         <mark key="^" line="53" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateDatabaseDialog.kt" timestamp="1590476524706">
-        <mark key="'" line="30" column="11" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="30" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" timestamp="1590509165892">
         <mark key="[" line="46" column="48" />
         <mark key="]" line="46" column="71" />
@@ -198,6 +191,10 @@
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/DBListAdapter.kt" timestamp="1590478829584">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/build/outputs/apk/release/output.json" timestamp="1590520294377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="264" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1590509034131">
         <mark key="'" line="14" column="22" />
@@ -315,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>icons</text>
+      <register name="+" type="2">
+        <text>[{&quot;outputType&quot;:{&quot;type&quot;:&quot;APK&quot;},&quot;apkData&quot;:{&quot;type&quot;:&quot;MAIN&quot;,&quot;splits&quot;:[],&quot;versionCode&quot;:1,&quot;versionName&quot;:&quot;1.0&quot;,&quot;enabled&quot;:true,&quot;outputFile&quot;:&quot;app-release-unsigned.apk&quot;,&quot;fullName&quot;:&quot;release&quot;,&quot;baseName&quot;:&quot;release&quot;,&quot;dirName&quot;:&quot;&quot;},&quot;path&quot;:&quot;app-release-unsigned.apk&quot;,&quot;properties&quot;:{}}]</text>
       </register>
       <register name="-" type="4">
         <text>icons</text>
@@ -325,7 +322,7 @@
         <text>submitList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9kZXNpZ25fZGVmYXVsdF9jb2xvcl9wcmltYXJ5X2RhcmsiCg==</text>
+        <text>[{&quot;outputType&quot;:{&quot;type&quot;:&quot;APK&quot;},&quot;apkData&quot;:{&quot;type&quot;:&quot;MAIN&quot;,&quot;splits&quot;:[],&quot;versionCode&quot;:1,&quot;versionName&quot;:&quot;1.0&quot;,&quot;enabled&quot;:true,&quot;outputFile&quot;:&quot;app-release-unsigned.apk&quot;,&quot;fullName&quot;:&quot;release&quot;,&quot;baseName&quot;:&quot;release&quot;,&quot;dirName&quot;:&quot;&quot;},&quot;path&quot;:&quot;app-release-unsigned.apk&quot;,&quot;properties&quot;:{}}]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkZWxldGVkUm93cy52YWx1ZSEhLmNvbnRhaW5zKHJvdykpIHJldHVybgo=</text>
