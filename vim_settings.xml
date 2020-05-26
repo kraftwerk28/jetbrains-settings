@@ -22,8 +22,8 @@
         <entry>bnext</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>w</entry>
-        <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>wa</entry>
+        <entry>call LanguageClient#textDocument_hover()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -99,37 +99,31 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" timestamp="1590479583204">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="8" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" timestamp="1590481336210">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="99" column="21" />
+        <mark key="]" line="99" column="33" />
+        <mark key="." line="99" column="32" />
+        <mark key="^" line="99" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1590351630654">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="6" column="50" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1590480299778">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="69" />
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_table_view.xml" timestamp="1590351584110">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="49" />
-        <mark key="^" line="6" column="50" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBTablesViewFragment.kt" timestamp="1590481091448">
+        <mark key="[" line="99" column="17" />
+        <mark key="]" line="99" column="26" />
+        <mark key="." line="99" column="25" />
+        <mark key="^" line="99" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" timestamp="1590352110988">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="55" column="59" />
-        <mark key="^" line="55" column="59" />
-        <mark key="." line="55" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1590351609260">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1590480323221">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="50" />
+        <mark key="[" line="52" column="74" />
+        <mark key="]" line="53" column="36" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="53" column="36" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/ModifyRowDialog.kt" timestamp="1590363113623">
         <mark key="[" line="21" column="31" />
@@ -137,7 +131,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/item_create_table.xml" timestamp="1590479012596" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/item_create_table.xml" timestamp="1590480164744">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1590476134091">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="209" column="0" />
@@ -173,17 +172,22 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="88" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1590476918357">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="14" column="49" />
-        <mark key="." line="14" column="48" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/ItemSwipeHelper.kt" timestamp="1590479769411">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/dialog_create_table.xml" timestamp="1590479280265">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1590480079599">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/dialog_create_table.xml" timestamp="1590480448159">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/ModifyCellDialog.kt" timestamp="1590477272893">
         <mark key="[" line="28" column="36" />
@@ -206,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
@@ -306,27 +309,28 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" />
       <jump line="15" column="33" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" />
       <jump line="19" column="34" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>isNotEmpty()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>isNotEmpty()</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHZpZXcgPSBMYXlvdXRJbmZsYXRlcgogICAgICAgICAgICAgICAgLmZyb20ocGFyZW50LmNvbnRleHQpCiAgICAgICAgICAgICAgICAuaW5mbGF0ZShSLmxheW91dC5kYnZpZXdfaXRlbSwgcGFyZW50LCBmYWxzZSkKICAgICAgICAgICAgcmV0dXJuIERCTGlzdFZpZXdIb2xkZXIodmlldykK</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2cuZ2V0QnV0dG9uKEFsZXJ0RGlhbG9nLkJVVFRPTl9QT1NJVElWRSkuaXNFbmFibGVkID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcyA9IEl0ZW1Td2lwZUhlbHBlciB7CgogICAgICAgIH0KICAgICAgICBJdGVtVG91Y2hIZWxwZXIocykuYXR0YWNoVG9SZWN5Y2xlclZpZXcodmlldy5jb2x1bW5zUmVjeWNsZXJWaWV3KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZWF0ZVRhYmxlRGlhbG9nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -340,25 +344,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcyA9IEl0ZW1Td2lwZUhlbHBlciB7CgogICAgICAgIH0KICAgICAgICBJdGVtVG91Y2hIZWxwZXIocykuYXR0YWNoVG9SZWN5Y2xlclZpZXcodmlldy5jb2x1bW5zUmVjeWNsZXJWaWV3KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtVG91Y2hIZWxwZXIocykuYXR0YWNoVG9SZWN5Y2xlclZpZXcodmlldy5jb2x1bW5zUmVjeWNsZXJWaWV3KQo=</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2cuZ2V0QnV0dG9uKEFsZXJ0RGlhbG9nLkJVVFRPTl9QT1NJVElWRSkuaXNFbmFibGVkID0gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuc2V0VmlldygpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2cgPSBidWlsZGVyLmNyZWF0ZSgpCiAgICAgICAgZGlhbG9nLmdldEJ1dHRvbihBbGVydERpYWxvZy5CVVRUT05fUE9TSVRJVkUpLmlzRW5hYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnN1Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gSXRlbVN3aXBlSGVscGVyIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LmNvbHVtbnNSZWN5Y2xlclZpZXcuYWRhcHRlciA9IGFkYXB0ZXIKICAgICAgICB2aWV3LnRhYmxlTmFtZUlucHV0LmFkZFRleHRDaGFuZ2VkTGlzdGVuZXIgewogICAgICAgICAgICB0YWJsZU5hbWUgPSBpdC50b1N0cmluZygpCiAgICAgICAgICAgIGRpYWxvZy5nZXRCdXR0b24oQWxlcnREaWFsb2cuQlVUVE9OX1BPU0lUSVZFKS5pc0VuYWJsZWQgPSBmYWxzZQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFsZXJ0RGlhbG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rcmFmdHdlcmsyOC5wb2NrZXRjbXMuYWRhcHRlcnMuREJMaXN0Vmlld0hvbGRlcgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJ1aWxkZXI6IEFsZXJ0RGlhbG9nLkJ1aWxkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
