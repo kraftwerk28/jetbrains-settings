@@ -203,8 +203,11 @@
         <mark key="." line="113" column="50" />
         <mark key="^" line="113" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1590476801722">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1590561104765">
+        <mark key="[" line="134" column="39" />
+        <mark key="]" line="134" column="43" />
+        <mark key="." line="134" column="42" />
+        <mark key="^" line="134" column="43" />
       </file>
     </filemarks>
     <jumps>
