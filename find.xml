@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'lab2-java'" />
-    <option name="defaultScopeName" value="Project 'lab2-java'" />
+    <option name="customScope" value="Module 'app'" />
+    <option name="defaultScopeName" value="Module 'app'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'lab2-java'" />
+    <option name="SEARCH_SCOPE" value="Module 'app'" />
   </component>
 </application>
