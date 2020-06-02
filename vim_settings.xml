@@ -109,19 +109,19 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1590653437828">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1591110681473">
         <mark key="a" line="15" column="30" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
         <mark key="^" line="93" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" timestamp="1590563738658">
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" timestamp="1590653608762">
         <mark key="'" line="102" column="50" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="69" column="56" />
+        <mark key="[" line="112" column="73" />
+        <mark key="]" line="112" column="73" />
+        <mark key="." line="112" column="73" />
+        <mark key="^" line="112" column="76" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/DBTablesViewModel.kt" timestamp="1590561518946">
         <mark key="[" line="52" column="13" />
@@ -315,11 +315,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5zdWJtaXRMaXN0KGNvbHVtbkxpc3QudG9MaXN0KCkpCg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">IC0t</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">IC0t</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
