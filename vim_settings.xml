@@ -22,8 +22,8 @@
         <entry>aw</entry>
         <entry>bnext</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>w</entry>
+        <entry>call LanguageClient#textDocument_hover()</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -94,23 +94,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" timestamp="1590485726286">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" timestamp="1590653608762">
-        <mark key="'" line="102" column="50" />
-        <mark key="[" line="112" column="73" />
-        <mark key="]" line="112" column="73" />
-        <mark key="." line="112" column="73" />
-        <mark key="^" line="112" column="76" />
+      <file name="/kraftwerk28.public.black_lists" timestamp="1591649720197">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/DBTablesViewModel.kt" timestamp="1591358581927">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+        <mark key="^" line="53" column="46" />
+      </file>
+      <file name="/console" timestamp="1591649279013">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/black_lists [postgres_docker@localhost]" timestamp="1591649720182">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1591360407069">
         <mark key="[" line="99" column="78" />
@@ -118,23 +115,8 @@
         <mark key="." line="99" column="77" />
         <mark key="^" line="99" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbview.xml" timestamp="1590490775919">
-        <mark key="[" line="63" column="63" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBTablesViewFragment.kt" timestamp="1590491615347">
-        <mark key="[" line="84" column="66" />
-        <mark key="]" line="84" column="75" />
-        <mark key="." line="84" column="74" />
-        <mark key="^" line="84" column="75" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_table_view.xml" timestamp="1590517704774">
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="89" />
-        <mark key="^" line="53" column="89" />
-        <mark key="." line="53" column="88" />
+      <file name="/kraftwerk28.public.users" timestamp="1591649678481">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/gradle.properties" timestamp="1591361080110">
         <mark key="[" line="21" column="0" />
@@ -142,18 +124,14 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbtables_view.xml" timestamp="1590491173867">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="58" column="10" />
-        <mark key="^" line="58" column="11" />
+      <file name="/a.sql" timestamp="1591650180205">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/item_create_table.xml" timestamp="1590490087421">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="26" />
+      <file name="/default" timestamp="1591650136107">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [postgres_docker@localhost]" timestamp="1591649678465">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" timestamp="1591357766397">
         <mark key="'" line="14" column="22" />
@@ -173,6 +151,9 @@
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591649231588">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_dbconnect.xml" timestamp="1591354188766">
         <mark key="a" line="15" column="30" />
         <mark key="[" line="194" column="0" />
@@ -180,17 +161,12 @@
         <mark key="." line="194" column="0" />
         <mark key="^" line="93" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" timestamp="1590509165892">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="71" />
-        <mark key="." line="46" column="70" />
-        <mark key="^" line="46" column="71" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/values/strings.xml" timestamp="1590480079599">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-        <mark key="." line="14" column="46" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console.sql" timestamp="1591650193930">
+        <mark key="'" line="65" column="43" />
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="44" />
       </file>
       <file name="$USER_HOME$/projects/android/PocketCMS/app/src/test/java/com/kraftwerk28/pocketcms/ConnectFragment.kt" timestamp="1591361031688">
         <mark key="[" line="10" column="51" />
@@ -198,15 +174,8 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/dialog_create_table.xml" timestamp="1590490048081">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build/outputs/apk/release/output.json" timestamp="1590520294377">
+      <file name="/foo.bar" timestamp="1591649720212">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="264" />
       </file>
       <file name="/fragment.java" timestamp="1591354445322">
         <mark key="[" line="0" column="0" />
