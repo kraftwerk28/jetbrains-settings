@@ -97,20 +97,11 @@
       <file name="/kraftwerk28.public.black_lists" timestamp="1592220458144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591944038642">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1592220458194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/black_lists [postgres_docker@localhost]" timestamp="1592220458144">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/build.gradle" timestamp="1591360407069">
-        <mark key="[" line="99" column="78" />
-        <mark key="]" line="99" column="78" />
-        <mark key="." line="99" column="77" />
-        <mark key="^" line="99" column="78" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd65c70d-0c2f-4893-ad00-211cf2c9e390/console.sql" timestamp="1591650193930">
         <mark key="'" line="65" column="43" />
@@ -125,18 +116,6 @@
       <file name="/blcklstbot.public.chats" timestamp="1592220458143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/test/java/com/kraftwerk28/pocketcms/ConnectFragment.kt" timestamp="1591361031688">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="60" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1592220891016">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="/kraftwerk28.public.users" timestamp="1592220458147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,13 +125,14 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Bot.kt" timestamp="1593469991212">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="15" />
+        <mark key="." line="115" column="14" />
+        <mark key="^" line="115" column="15" />
+      </file>
       <file name="/a.sql" timestamp="1591944038556">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1592220458147">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/banlist [postgres_docker@myserver]" timestamp="1592220458135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/chats [postgres_docker@myserver]" timestamp="1592220458142">
@@ -164,16 +144,29 @@
       <file name="/users [postgres_docker@localhost]" timestamp="1592220458146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/test/java/com/kraftwerk28/pocketcms/SQLGen.kt" timestamp="1591360758165">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="65" column="53" />
+      <file name="/Dummy.txt" timestamp="1591944038642">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" timestamp="1591360594653">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
+      <file name="$USER_HOME$/projects/android/PocketCMS/app/src/test/java/com/kraftwerk28/pocketcms/ConnectFragment.kt" timestamp="1591361031688">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="10" column="60" />
+      </file>
+      <file name="/" timestamp="1593468756456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1592220891016">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="/foo.bar" timestamp="1592220458147">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/banlist [postgres_docker@myserver]" timestamp="1592220458135">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
