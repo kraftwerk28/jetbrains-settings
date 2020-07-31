@@ -97,7 +97,13 @@
       <file name="/kraftwerk28.public.black_lists" timestamp="1592220458144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591944038642">
+      <file name="$USER_HOME$/projects/java/kotlin-playground/src/org/kraftwerk28/kotlin-playground/Main.kt" timestamp="1596222790558">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1596222799596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1592220458194">
@@ -135,9 +141,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="83" />
-      </file>
-      <file name="/a.sql" timestamp="1591944038556">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592220458147">
         <mark key="[" line="0" column="0" />
