@@ -103,11 +103,17 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596222799596">
+      <file name="/Dummy.txt" timestamp="1596223506432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1592220458194">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" timestamp="1596223699862">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/black_lists [postgres_docker@localhost]" timestamp="1592220458144">
         <mark key="[" line="0" column="0" />
@@ -145,9 +151,6 @@
       <file name="/foo.bar" timestamp="1592220458147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/banlist [postgres_docker@myserver]" timestamp="1592220458135">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Plugin.kt" timestamp="1593688233499">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="61" />
@@ -174,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/Database.kt" />
       <jump line="98" column="35" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
@@ -274,15 +276,16 @@
       <jump line="64" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" />
       <jump line="102" column="50" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/dialogs/CreateTableDialog.kt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>this</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Main</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
@@ -291,10 +294,10 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ0pvaW5MZWF2ZTogQm9vbGVhbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogTGlzdDxTdHJpbmc+KSB7CiAgICBwcmludGxuKCJBcmdzOiAkYXJncyIpOwp9</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -308,25 +311,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGx1Z2luLmNvbmZpZy5nZXRCb29sZWFuKCJsb2dKb2luTGVhdmUiLCBmYWxzZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ0pvaW5MZWF2ZTogQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGx1Z2luLmNvbmZpZy5nZXRCb29sZWFuKCJsb2dKb2luTGVhdmUiLCBmYWxzZSkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxlZnRTdHIgPSBwbHVnaW4uY29uZmlnLmdldFN0cmluZygic3RyaW5ncy5sZWZ0IiwgImpvaW5lZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpvaW5TdHIgPSBwbHVnaW4uY29uZmlnLmdldFN0cmluZygic3RyaW5ncy5qb2luZWQiLCAiam9pbmVkIikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ0pvaW5MZWF2ZTogQm9vbGVhbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5idWtraXQuZXZlbnQuRXZlbnRIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxlZnRTdHIgPSBwbHVnaW4uY29uZmlnLmdldFN0cmluZygic3RyaW5ncy5sZWZ0IiwgImpvaW5lZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5idWtraXQuZXZlbnQucGxheWVyLkFzeW5jUGxheWVyQ2hhdEV2ZW50CmltcG9ydCBvcmcuYnVra2l0LmV2ZW50LnBsYXllci5QbGF5ZXJKb2luRXZlbnQKaW1wb3J0IG9yZy5idWtraXQuZXZlbnQucGxheWVyLlBsYXllclF1aXRFdmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpvaW5TdHIgPSBwbHVnaW4uY29uZmlnLmdldFN0cmluZygic3RyaW5ncy5qb2luZWQiLCAiam9pbmVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
