@@ -106,12 +106,12 @@
       <file name="/Dummy.txt" timestamp="1596223506432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600072756666">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600075215698">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="/console" timestamp="1592220458194">
         <mark key="[" line="0" column="0" />
@@ -292,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>ans</text>
+        <text encoding="base64">PCBpbnAuc2l6ZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>ans</text>
+        <text encoding="base64">PCBpbnAuc2l6ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
