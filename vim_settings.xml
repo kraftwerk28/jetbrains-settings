@@ -23,8 +23,9 @@
         <entry>bnext</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>call LanguageClient#textDocument_hover()</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>call CocAction('rename')</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,7 +104,7 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601936096039">
+      <file name="/Dummy.txt" timestamp="1601936646387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
@@ -125,11 +126,11 @@
       <file name="/black_lists [postgres_docker@localhost]" timestamp="1592220458144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936532674">
+      <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="83" />
-        <mark key="." line="33" column="4" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
         <mark key="^" line="33" column="4" />
       </file>
       <file name="/" timestamp="1593468756456">
@@ -299,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>,  exclude 'META-INF/*.DSA', 'META-INF/*.RSA', 'META-INF/*.SF'</text>
+        <text>kraftwerk28.</text>
       </register>
       <register name="-" type="4">
-        <text>,  exclude 'META-INF/*.DSA', 'META-INF/*.RSA', 'META-INF/*.SF'</text>
+        <text>kraftwerk28.</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
@@ -349,7 +350,7 @@
         <text encoding="base64">ICAgIGZ1bgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
