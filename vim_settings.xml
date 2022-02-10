@@ -318,6 +318,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
+      </register>
       <register name="+" type="4">
         <text>kraftwerk28.</text>
       </register>
@@ -327,8 +330,8 @@
       <register name="/" type="4">
         <text>submitList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnLAogICAgICAgICAgICAgICAgJ0NsYXNzLVBhdGgnOiBjb25maWd1cmF0aW9ucy5ydW50aW1lLmZpbGVzLmNvbGxlY3QgeyAibGliLyRpdC5uYW1lIiB9LmpvaW4oJyAnKQo=</text>
+      <register name="0" type="4">
+        <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
