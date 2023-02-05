@@ -116,11 +116,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675618595013">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675618688784">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
         <mark key="'" line="23" column="0" />
@@ -195,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="39" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
       <jump line="57" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
       <jump line="67" column="18" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
       <jump line="68" column="35" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
@@ -295,6 +294,7 @@
       <jump line="33" column="0" filename="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" />
+      <jump line="18" column="29" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,22 +303,22 @@
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
       <register name="+" type="4">
-        <text>kraftwerk28.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>kraftwerk28.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
       </register>
-      <register name="0" type="4">
-        <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -332,25 +332,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
+        <text encoding="base64">CiAgICA8ZnJhZ21lbnQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9ob3N0X2ZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZHgubmF2aWdhdGlvbi5mcmFnbWVudC5OYXZIb3N0RnJhZ21lbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhcHA6ZGVmYXVsdE5hdkhvc3Q9InRydWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL25hdl9ncmFwaCIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
