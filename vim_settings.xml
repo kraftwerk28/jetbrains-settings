@@ -109,11 +109,27 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="/Dummy.txt" timestamp="1675636609610">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" timestamp="1675636439800">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" timestamp="1596223699862">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675621558460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
         <mark key="'" line="23" column="0" />
@@ -122,11 +138,31 @@
         <mark key="." line="31" column="41" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675636531294">
+      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675637068760">
         <mark key="'" line="44" column="31" />
-        <mark key="[" line="46" column="0" />
+        <mark key="[" line="45" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/activity_main.xml" timestamp="1675636417154">
+        <mark key="'" line="23" column="46" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675626173082">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/SecondFragment.kt" timestamp="1675626185419">
         <mark key="[" line="22" column="0" />
@@ -138,6 +174,19 @@
         <mark key="]" line="37" column="61" />
         <mark key="." line="37" column="60" />
         <mark key="^" line="37" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675636887068">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+        <mark key="^" line="10" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675635409307">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" timestamp="1675633752978">
         <mark key="'" line="3" column="0" />
@@ -163,53 +212,6 @@
         <mark key="]" line="11" column="52" />
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1675636609610">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" timestamp="1675636439800">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675621558460">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="66" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/activity_main.xml" timestamp="1675636417154">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675626173082">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675636364820">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675635409307">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1675626764104">
         <mark key="[" line="0" column="0" />
@@ -324,10 +326,10 @@
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5uYXZpZ2F0aW9uOm5hdmlnYXRpb24tZnJhZ21lbnQta3R4OjIuMy4xJwogICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0eDoyLjMuMScK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>android-</text>
@@ -336,10 +338,10 @@
         <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5uYXZpZ2F0aW9uOm5hdmlnYXRpb24tZnJhZ21lbnQta3R4OjIuMy4xJwogICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0eDoyLjMuMScK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS4yJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMy4wJwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5uYXZpZ2F0aW9uOm5hdmlnYXRpb24tZnJhZ21lbnQta3R4OjIuMy4xJwogICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0eDoyLjMuMScK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -353,25 +355,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS4yJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMy4wJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rcmFmdHdlcmsyOC5hdXRvX2FwLlIKCg==</text>
+        <text encoding="base64">CiAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuUgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rcmFmdHdlcmsyOC5hdXRvX2FwLlIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
