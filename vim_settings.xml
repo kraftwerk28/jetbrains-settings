@@ -116,10 +116,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675618688784">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="64" />
-        <mark key="." line="6" column="64" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675621558460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
@@ -144,6 +144,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675621592417">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1592220891016">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="1" />
@@ -157,14 +160,21 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="83" />
       </file>
-      <file name="/foo.bar" timestamp="1592220458147">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Plugin.kt" timestamp="1593688233499">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="61" />
         <mark key="." line="37" column="60" />
         <mark key="^" line="37" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675621537399">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" timestamp="1675621494415">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/EventHandler.kt" timestamp="1593688205471">
         <mark key="[" line="26" column="55" />
@@ -195,12 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
-      <jump line="67" column="18" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
-      <jump line="68" column="35" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBViewFragment.kt" />
-      <jump line="46" column="27" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="74" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="57" column="12" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
@@ -295,6 +299,12 @@
       <jump line="30" column="0" filename="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" />
       <jump line="18" column="29" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
