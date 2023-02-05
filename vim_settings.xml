@@ -107,9 +107,6 @@
       <file name="/Dummy.txt" timestamp="1601936646387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1592220458194">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" timestamp="1596223699862">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -144,8 +141,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675621592417">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675626173082">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1592220891016">
         <mark key="'" line="0" column="0" />
@@ -160,6 +159,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/SecondFragment.kt" timestamp="1675626185419">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Plugin.kt" timestamp="1593688233499">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="61" />
@@ -172,9 +176,9 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" timestamp="1675621494415">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/EventHandler.kt" timestamp="1593688205471">
         <mark key="[" line="26" column="55" />
@@ -194,7 +198,7 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1675618097045">
+      <file name="/fragment.java" timestamp="1675626252083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Config.kt" timestamp="1593676786161">
@@ -205,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="57" column="12" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="107" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="113" column="19" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
@@ -305,6 +307,8 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="28" column="8" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/SecondFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,8 +316,8 @@
       <register name="&quot;" type="4">
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
-      <register name="+" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblZpZXdDcmVhdGVkKHZpZXcsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKCiAgICAgICAgdmlldy5maW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJ1dHRvbl9zZWNvbmQpLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIGZpbmROYXZDb250cm9sbGVyKCkubmF2aWdhdGUoUi5pZC5hY3Rpb25fU2Vjb25kRnJhZ21lbnRfdG9fRmlyc3RGcmFnbWVudCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
@@ -325,10 +329,10 @@
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblZpZXdDcmVhdGVkKHZpZXcsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKCiAgICAgICAgdmlldy5maW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJ1dHRvbl9zZWNvbmQpLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIGZpbmROYXZDb250cm9sbGVyKCkubmF2aWdhdGUoUi5pZC5hY3Rpb25fU2Vjb25kRnJhZ21lbnRfdG9fRmlyc3RGcmFnbWVudCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgZmFiLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXcgLT4KICAgICAgICAgICAgU25hY2tiYXIubWFrZSh2aWV3LCAiUmVwbGFjZSB3aXRoIHlvdXIgb3duIGFjdGlvbiIsIFNuYWNrYmFyLkxFTkdUSF9MT05HKQogICAgICAgICAgICAgICAgLnNldEFjdGlvbigiQWN0aW9uIiwgbnVsbCkuc2hvdygpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQKICAgICAgICByZXR1cm4gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9zZWNvbmQsIGNvbnRhaW5lciwgZmFsc2UpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -342,25 +346,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uYWN0aXZpdHlfbWFpbi4qCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9maXJzdCwgY29udGFpbmVyLCBmYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLk1haW5BY3Rpdml0eSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGFiZWw9IkBzdHJpbmcvdGl0bGVfYWN0aXZpdHlfbWFpbiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Ob0FjdGlvbkJhciI+PC9hY3Rpdml0eT4K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblZpZXdDcmVhdGVkKHZpZXcsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKCiAgICAgICAgdmlldy5maW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJ1dHRvbl9maXJzdCkuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgZmluZE5hdkNvbnRyb2xsZXIoKS5uYXZpZ2F0ZShSLmlkLmFjdGlvbl9GaXJzdEZyYWdtZW50X3RvX1NlY29uZEZyYWdtZW50KQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZmFiLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXcgLT4KICAgICAgICAgICAgU25hY2tiYXIubWFrZSh2aWV3LCAiUmVwbGFjZSB3aXRoIHlvdXIgb3duIGFjdGlvbiIsIFNuYWNrYmFyLkxFTkdUSF9MT05HKQogICAgICAgICAgICAgICAgLnNldEFjdGlvbigiQWN0aW9uIiwgbnVsbCkuc2hvdygpCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8ZnJhZ21lbnQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9ob3N0X2ZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZHgubmF2aWdhdGlvbi5mcmFnbWVudC5OYXZIb3N0RnJhZ21lbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhcHA6ZGVmYXVsdE5hdkhvc3Q9InRydWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL25hdl9ncmFwaCIgLz4K</text>
+        <text encoding="base64">CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uYWN0aXZpdHlfbWFpbi4qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLk1haW5BY3Rpdml0eSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGFiZWw9IkBzdHJpbmcvdGl0bGVfYWN0aXZpdHlfbWFpbiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Ob0FjdGlvbkJhciI+PC9hY3Rpdml0eT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
