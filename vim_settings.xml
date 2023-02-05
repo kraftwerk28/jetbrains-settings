@@ -116,6 +116,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675618595013">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="31" column="41" />
@@ -132,9 +138,6 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="30" />
-      </file>
-      <file name="/kraftwerk28.public.users" timestamp="1592220458147">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/ConfigException.kt" timestamp="1593687782994">
         <mark key="[" line="1" column="0" />
@@ -369,7 +372,7 @@
     <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
-      <idea-put enabled="false" />
+      <idea-put enabled="true" />
     </notifications>
   </component>
 </application>
