@@ -313,10 +313,10 @@
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
       <register name="+" type="4">
-        <text>/</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
@@ -325,10 +325,10 @@
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZmFiLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXcgLT4KICAgICAgICAgICAgU25hY2tiYXIubWFrZSh2aWV3LCAiUmVwbGFjZSB3aXRoIHlvdXIgb3duIGFjdGlvbiIsIFNuYWNrYmFyLkxFTkdUSF9MT05HKQogICAgICAgICAgICAgICAgLnNldEFjdGlvbigiQWN0aW9uIiwgbnVsbCkuc2hvdygpCiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -342,25 +342,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8ZnJhZ21lbnQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9ob3N0X2ZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZHgubmF2aWdhdGlvbi5mcmFnbWVudC5OYXZIb3N0RnJhZ21lbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhcHA6ZGVmYXVsdE5hdkhvc3Q9InRydWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL25hdl9ncmFwaCIgLz4K</text>
+        <text encoding="base64">CmltcG9ydCBrb3RsaW54LmFuZHJvaWQuc3ludGhldGljLm1haW4uYWN0aXZpdHlfbWFpbi4qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLk1haW5BY3Rpdml0eSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGFiZWw9IkBzdHJpbmcvdGl0bGVfYWN0aXZpdHlfbWFpbiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Ob0FjdGlvbkJhciI+PC9hY3Rpdml0eT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
+        <text encoding="base64">CiAgICA8ZnJhZ21lbnQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9ob3N0X2ZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZHgubmF2aWdhdGlvbi5mcmFnbWVudC5OYXZIb3N0RnJhZ21lbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhcHA6ZGVmYXVsdE5hdkhvc3Q9InRydWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL25hdl9ncmFwaCIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdDbGFzcy1QYXRoJzogY29uZmlndXJhdGlvbnMucnVudGltZS5maWxlcy5jb2xsZWN0IHsgImxpYi8kaXQubmFtZSIgfS5qb2luKCcgJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ29yZy5rcmFmdHdlcmsyOC5BcHAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
