@@ -10,10 +10,6 @@
     </option>
     <option name="enabled" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="MesloLGS Nerd Font" />
-  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
