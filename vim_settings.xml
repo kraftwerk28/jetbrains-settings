@@ -94,6 +94,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -118,11 +121,11 @@
         <mark key="." line="31" column="41" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675634399486">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675635380081">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/SecondFragment.kt" timestamp="1675626185419">
         <mark key="[" line="22" column="0" />
@@ -137,10 +140,10 @@
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" timestamp="1675633752978">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="8" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="8" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/EventHandler.kt" timestamp="1593688205471">
         <mark key="[" line="26" column="55" />
@@ -194,37 +197,25 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675633767339">
-        <mark key="'" line="11" column="35" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675635093145">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675635341798">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675634424342">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="^" line="47" column="60" />
       </file>
       <file name="/fragment.java" timestamp="1675626764104">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" />
-      <jump line="16" column="32" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/viewmodels/TableViewModel.kt" />
-      <jump line="60" column="7" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="18" column="3" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="34" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
-      <jump line="38" column="7" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/fragment_table_view.xml" />
-      <jump line="157" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" />
-      <jump line="156" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" />
       <jump line="3" column="20" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" />
       <jump line="11" column="20" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" />
       <jump line="7" column="37" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" />
@@ -286,14 +277,9 @@
       <jump line="14" column="14" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
@@ -302,7 +288,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
-      <jump line="13" column="54" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
@@ -310,7 +295,27 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" />
-      <jump line="11" column="35" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="15" column="12" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="33" column="7" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="11" column="42" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
+      <jump line="17" column="21" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="35" column="44" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,23 +323,23 @@
       <register name="&quot;" type="4">
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJTY2FuCg==</text>
+      <register name="+" type="4">
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>29</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+      <register name="0" type="4">
+        <text>notifyAboutApScan</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJTY2FuCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaSgzMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkTmV0d29yaygpCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaSgzMCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -348,25 +353,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJTY2FuCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaSgzMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJTY2FuCg==</text>
+        <text encoding="base64">ICAgIAogICAgb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWdpc3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICBhcExpc3RSZWN5Y2xlclZpZXcuYWRhcHRlciA9IEFwTGlzdEFkYXB0ZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJTY2FuUmVzdWx0c0NhbGxiYWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICB3aWZpTWdyID0gYXBwbGljYXRpb25Db250ZXh0LmdldFN5c3RlbVNlcnZpY2UoV0lGSV9TRVJWSUNFKSBhcyBXaWZpTWFuYWdlcgogICAgICAgIHdpZmlNZ3I/LmxldCB7CiAgICAgICAgICAgIHZhbCBleGVjdXRvciA9IEV4ZWN1dG9ycy5uZXdTaW5nbGVUaHJlYWRFeGVjdXRvcigpCiAgICAgICAgICAgIGl0LmlzV2lmaUVuYWJsZWQgPSB0cnVlCiAgICAgICAgICAgIGl0LnJlZ2lzdGVyU2NhblJlc3VsdHNDYWxsYmFjayhleGVjdXRvciwgUmVzdWx0c0NhbGxiYWNrKHRoaXMpKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuc2V0V2lmaUVuYWJsZWQodHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NhblIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
