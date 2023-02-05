@@ -119,6 +119,10 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/MyApplication2/app/build.gradle" timestamp="1675637418141">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="34" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" timestamp="1596223699862">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -138,12 +142,12 @@
         <mark key="." line="31" column="41" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675637068760">
-        <mark key="'" line="44" column="31" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="4" />
+      <file name="$USER_HOME$/projects/android/auto-ap/app/build.gradle" timestamp="1675637421461">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="54" column="74" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="47" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
         <mark key="'" line="27" column="0" />
@@ -218,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="37" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" />
       <jump line="2" column="23" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/TableViewListener.kt" />
       <jump line="45" column="16" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/adapters/TableViewAdapter.kt" />
       <jump line="24" column="2" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/TableViewFragment.kt" />
@@ -318,6 +321,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" />
       <jump line="8" column="15" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
       <jump line="44" column="31" filename="$USER_HOME$/projects/android/auto-ap/app/build.gradle" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,16 +330,16 @@
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmFwcGNvbXBhdDphcHBjb21wYXQ6MS42LjAnCiAgICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguY29yZTpjb3JlLWt0eDoxLjkuMCcKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS41JwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuNS4xJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$rootProject.recyclerViewVersion</text>
       </register>
       <register name="/" type="4">
         <text>android-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmFwcGNvbXBhdDphcHBjb21wYXQ6MS42LjAnCiAgICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguY29yZTpjb3JlLWt0eDoxLjkuMCcKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS41JwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuNS4xJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
