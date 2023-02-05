@@ -104,20 +104,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601936646387">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/java/kotlin-playground/src/main/kotlin/org/kraftwerk28/kt-playground/Main.kt" timestamp="1596223699862">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675621558460">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/projects/java/kotlin-telegram-bot/build.gradle" timestamp="1601936589032">
         <mark key="'" line="23" column="0" />
@@ -126,29 +117,10 @@
         <mark key="." line="31" column="41" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/ConfigException.kt" timestamp="1593687782994">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/activity_main.xml" timestamp="1675627894299">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675626173082">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Bot.kt" timestamp="1593677169156">
         <mark key="'" line="40" column="0" />
@@ -167,17 +139,6 @@
         <mark key="]" line="37" column="61" />
         <mark key="." line="37" column="60" />
         <mark key="^" line="37" column="61" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675628538984">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675628057518">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/AndroidManifest.xml" timestamp="1675627502644">
         <mark key="[" line="16" column="0" />
@@ -203,24 +164,55 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="52" />
       </file>
+      <file name="/Dummy.txt" timestamp="1675629364946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" timestamp="1675630034000">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/content_main.xml" timestamp="1675621558460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1600077710655">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/activity_main.xml" timestamp="1675627894299">
+        <mark key="'" line="23" column="46" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" timestamp="1675626173082">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/ApListAdapter.kt" timestamp="1675630045729">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/MainActivity.kt" timestamp="1675628057518">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1675626764104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/java/spigot-tg-bridge/src/main/kotlin/org/kraftwerk28/spigot_tg_bridge/Config.kt" timestamp="1593676786161">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="23" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="113" column="19" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="207" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/fragments/DBConnectFragment.kt" />
       <jump line="53" column="19" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/activities/DBActivity.kt" />
       <jump line="62" column="11" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/java/com/kraftwerk28/pocketcms/activities/DBActivity.kt" />
       <jump line="11" column="12" filename="$USER_HOME$/projects/android/PocketCMS/app/src/main/res/layout/item_table_cell.xml" />
@@ -314,6 +306,13 @@
       <jump line="28" column="8" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/FirstFragment.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/java/com/kraftwerk28/auto_ap/SecondFragment.kt" />
       <jump line="10" column="46" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/activity_main.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="2" column="44" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="14" column="14" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/android/auto-ap/app/src/main/res/layout/ap_list_item.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,17 +320,17 @@
       <register name="&quot;" type="4">
         <text>Reason: executing service org.mozilla.firefox/org.mozilla.fenix.customtabs.CustomTabsService</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>RV</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>submitList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iQGRpbWVuL2ZhYl9tYXJnaW4iIC8+Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -351,25 +350,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LndpZmkuV2lmaU1hbmFnZXIK</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcExpc3RSZWN5Y2xlclZpZXcuCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Ywo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkZvbyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlcnZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkZvbyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIkNsaWNrZWQhIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBsYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRGb250V2VpZ2h0PSIxIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QK</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dFZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJUZXh0VmlldyIKICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iNmRwIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
